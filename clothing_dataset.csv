@@ -1,0 +1,501 @@
+ID,Category,Type,Gender,Season,Occasion
+1,Traditional,Lehenga,Women,All,Party
+2,Western,Jeans,Unisex,All,Casual
+3,Traditional,Lehenga,Women,All,Wedding
+4,Traditional,Saree,Women,All,Festive
+5,Western,Jeans,Unisex,All,Casual
+6,Seasonal,Raincoat,Unisex,Monsoon,Travel
+7,Western,T-Shirt,Men,Summer,Casual
+8,Seasonal,Hoodie,Unisex,Winter,Casual
+9,Seasonal,Jacket,Unisex,Winter,Travel
+10,Western,Shirt,Men,All,Office
+11,Western,Formal Suit,Men,Winter,Party
+12,Traditional,Saree,Women,All,Festive
+13,Seasonal,Jacket,Unisex,Winter,Travel
+14,Western,Jeans,Unisex,All,Casual
+15,Traditional,Sherwani,Men,Winter,Festive
+16,Seasonal,Hoodie,Unisex,Winter,Casual
+17,Western,T-Shirt,Men,Summer,Casual
+18,Western,Jeans,Unisex,All,Casual
+19,Traditional,Sherwani,Men,Winter,Festive
+20,Traditional,Kurti,Women,Summer,Festive
+21,Traditional,Kurta Pajama,Men,All,Casual
+22,Seasonal,Jacket,Unisex,Winter,Travel
+23,Traditional,Salwar Kameez,Women,All,Office
+24,Traditional,Sherwani,Men,Winter,Wedding
+25,Traditional,Sherwani,Men,Winter,Wedding
+26,Seasonal,Raincoat,Unisex,Monsoon,Travel
+27,Western,T-Shirt,Men,Summer,Casual
+28,Western,Skirt,Women,Summer,Office
+29,Traditional,Kurti,Women,Summer,Festive
+30,Traditional,Kurti,Women,Summer,Festive
+31,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+32,Traditional,Saree,Women,All,Festive
+33,Western,Skirt,Women,Summer,Office
+34,Traditional,Lehenga,Women,All,Wedding
+35,Seasonal,Raincoat,Unisex,Monsoon,Travel
+36,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+37,Traditional,Kurti,Women,Summer,Casual
+38,Seasonal,Hoodie,Unisex,Winter,Casual
+39,Seasonal,Raincoat,Unisex,Monsoon,Travel
+40,Traditional,Lehenga,Women,All,Party
+41,Western,Formal Suit,Men,Winter,Office
+42,Western,Formal Suit,Men,Winter,Office
+43,Western,T-Shirt,Men,Summer,Casual
+44,Western,Formal Suit,Men,Winter,Party
+45,Traditional,Kurta Pajama,Men,All,Festive
+46,Traditional,Saree,Women,All,Festive
+47,Western,Dress,Women,Summer,Party
+48,Traditional,Sherwani,Men,Winter,Wedding
+49,Traditional,Sherwani,Men,Winter,Festive
+50,Western,Dress,Women,Summer,Casual
+51,Traditional,Lehenga,Women,All,Wedding
+52,Western,Formal Suit,Men,Winter,Party
+53,Western,Formal Suit,Men,Winter,Party
+54,Seasonal,Hoodie,Unisex,Winter,Casual
+55,Seasonal,Hoodie,Unisex,Winter,Casual
+56,Seasonal,Jacket,Unisex,Winter,Travel
+57,Western,Jeans,Unisex,All,Casual
+58,Seasonal,Hoodie,Unisex,Winter,Casual
+59,Western,T-Shirt,Men,Summer,Casual
+60,Western,Shirt,Men,All,Office
+61,Traditional,Salwar Kameez,Women,All,Casual
+62,Seasonal,Raincoat,Unisex,Monsoon,Travel
+63,Traditional,Salwar Kameez,Women,All,Office
+64,Western,T-Shirt,Men,Summer,Casual
+65,Seasonal,Jacket,Unisex,Winter,Casual
+66,Western,Formal Suit,Men,Winter,Office
+67,Traditional,Kurti,Women,Summer,Casual
+68,Western,Shirt,Men,All,Party
+69,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+70,Traditional,Salwar Kameez,Women,All,Office
+71,Western,T-Shirt,Men,Summer,Casual
+72,Seasonal,Jacket,Unisex,Winter,Casual
+73,Traditional,Kurti,Women,Summer,Festive
+74,Traditional,Kurti,Women,Summer,Festive
+75,Seasonal,Hoodie,Unisex,Winter,Casual
+76,Western,Jeans,Unisex,All,Casual
+77,Seasonal,Hoodie,Unisex,Winter,Casual
+78,Traditional,Kurta Pajama,Men,All,Festive
+79,Traditional,Salwar Kameez,Women,All,Office
+80,Western,T-Shirt,Men,Summer,Casual
+81,Traditional,Salwar Kameez,Women,All,Casual
+82,Seasonal,Woolen Sweater,Unisex,Winter,Office
+83,Seasonal,Raincoat,Unisex,Monsoon,Travel
+84,Seasonal,Hoodie,Unisex,Winter,Casual
+85,Traditional,Salwar Kameez,Women,All,Office
+86,Seasonal,Jacket,Unisex,Winter,Casual
+87,Traditional,Saree,Women,All,Festive
+88,Western,T-Shirt,Men,Summer,Casual
+89,Traditional,Kurti,Women,Summer,Festive
+90,Western,Formal Suit,Men,Winter,Office
+91,Seasonal,Jacket,Unisex,Winter,Travel
+92,Traditional,Saree,Women,All,Wedding
+93,Western,Dress,Women,Summer,Casual
+94,Western,Skirt,Women,Summer,Casual
+95,Traditional,Lehenga,Women,All,Party
+96,Western,Jeans,Unisex,All,Casual
+97,Traditional,Kurta Pajama,Men,All,Casual
+98,Traditional,Sherwani,Men,Winter,Festive
+99,Western,Jeans,Unisex,All,Casual
+100,Western,Dress,Women,Summer,Party
+101,Seasonal,Jacket,Unisex,Winter,Travel
+102,Traditional,Lehenga,Women,All,Party
+103,Traditional,Kurta Pajama,Men,All,Casual
+104,Western,Dress,Women,Summer,Casual
+105,Traditional,Sherwani,Men,Winter,Festive
+106,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+107,Western,Shirt,Men,All,Party
+108,Western,Shirt,Men,All,Party
+109,Western,Jeans,Unisex,All,Casual
+110,Seasonal,Jacket,Unisex,Winter,Casual
+111,Traditional,Salwar Kameez,Women,All,Casual
+112,Seasonal,Jacket,Unisex,Winter,Casual
+113,Western,Shirt,Men,All,Office
+114,Traditional,Sherwani,Men,Winter,Wedding
+115,Traditional,Kurta Pajama,Men,All,Festive
+116,Western,Jeans,Unisex,All,Casual
+117,Western,Shirt,Men,All,Office
+118,Western,Formal Suit,Men,Winter,Party
+119,Seasonal,Woolen Sweater,Unisex,Winter,Office
+120,Western,Jeans,Unisex,All,Casual
+121,Traditional,Lehenga,Women,All,Wedding
+122,Traditional,Kurta Pajama,Men,All,Casual
+123,Traditional,Kurti,Women,Summer,Casual
+124,Traditional,Sherwani,Men,Winter,Festive
+125,Western,Jeans,Unisex,All,Casual
+126,Western,Skirt,Women,Summer,Office
+127,Western,Skirt,Women,Summer,Office
+128,Traditional,Kurta Pajama,Men,All,Casual
+129,Traditional,Kurti,Women,Summer,Casual
+130,Seasonal,Woolen Sweater,Unisex,Winter,Office
+131,Western,Shirt,Men,All,Office
+132,Western,Jeans,Unisex,All,Casual
+133,Western,Jeans,Unisex,All,Casual
+134,Traditional,Kurti,Women,Summer,Casual
+135,Seasonal,Woolen Sweater,Unisex,Winter,Office
+136,Traditional,Sherwani,Men,Winter,Wedding
+137,Western,Shirt,Men,All,Office
+138,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+139,Seasonal,Hoodie,Unisex,Winter,Casual
+140,Western,Jeans,Unisex,All,Casual
+141,Western,Skirt,Women,Summer,Casual
+142,Western,Jeans,Unisex,All,Casual
+143,Western,Jeans,Unisex,All,Casual
+144,Western,T-Shirt,Men,Summer,Casual
+145,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+146,Seasonal,Hoodie,Unisex,Winter,Casual
+147,Western,Skirt,Women,Summer,Office
+148,Western,Skirt,Women,Summer,Office
+149,Western,Dress,Women,Summer,Party
+150,Traditional,Sherwani,Men,Winter,Festive
+151,Western,Jeans,Unisex,All,Casual
+152,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+153,Western,Shirt,Men,All,Party
+154,Traditional,Lehenga,Women,All,Wedding
+155,Seasonal,Jacket,Unisex,Winter,Casual
+156,Traditional,Salwar Kameez,Women,All,Office
+157,Western,T-Shirt,Men,Summer,Casual
+158,Traditional,Sherwani,Men,Winter,Festive
+159,Seasonal,Hoodie,Unisex,Winter,Casual
+160,Western,Dress,Women,Summer,Casual
+161,Traditional,Salwar Kameez,Women,All,Casual
+162,Western,Formal Suit,Men,Winter,Party
+163,Western,Formal Suit,Men,Winter,Party
+164,Western,Formal Suit,Men,Winter,Party
+165,Western,Shirt,Men,All,Office
+166,Traditional,Kurta Pajama,Men,All,Casual
+167,Traditional,Saree,Women,All,Wedding
+168,Traditional,Sherwani,Men,Winter,Festive
+169,Traditional,Kurti,Women,Summer,Casual
+170,Western,Shirt,Men,All,Office
+171,Traditional,Salwar Kameez,Women,All,Office
+172,Seasonal,Jacket,Unisex,Winter,Casual
+173,Traditional,Lehenga,Women,All,Party
+174,Western,Shirt,Men,All,Party
+175,Western,Dress,Women,Summer,Party
+176,Western,T-Shirt,Men,Summer,Casual
+177,Seasonal,Hoodie,Unisex,Winter,Casual
+178,Seasonal,Raincoat,Unisex,Monsoon,Travel
+179,Traditional,Saree,Women,All,Festive
+180,Western,Shirt,Men,All,Party
+181,Western,Dress,Women,Summer,Casual
+182,Seasonal,Jacket,Unisex,Winter,Casual
+183,Traditional,Kurta Pajama,Men,All,Casual
+184,Traditional,Kurta Pajama,Men,All,Festive
+185,Traditional,Salwar Kameez,Women,All,Office
+186,Traditional,Sherwani,Men,Winter,Festive
+187,Traditional,Salwar Kameez,Women,All,Casual
+188,Western,T-Shirt,Men,Summer,Casual
+189,Western,Jeans,Unisex,All,Casual
+190,Western,Dress,Women,Summer,Party
+191,Traditional,Kurti,Women,Summer,Casual
+192,Western,Skirt,Women,Summer,Casual
+193,Traditional,Kurta Pajama,Men,All,Festive
+194,Western,Skirt,Women,Summer,Casual
+195,Traditional,Saree,Women,All,Festive
+196,Traditional,Kurta Pajama,Men,All,Casual
+197,Western,Skirt,Women,Summer,Office
+198,Traditional,Lehenga,Women,All,Party
+199,Seasonal,Hoodie,Unisex,Winter,Casual
+200,Traditional,Saree,Women,All,Wedding
+201,Western,Jeans,Unisex,All,Casual
+202,Seasonal,Woolen Sweater,Unisex,Winter,Office
+203,Western,Jeans,Unisex,All,Casual
+204,Seasonal,Raincoat,Unisex,Monsoon,Travel
+205,Traditional,Salwar Kameez,Women,All,Office
+206,Western,Jeans,Unisex,All,Casual
+207,Traditional,Kurta Pajama,Men,All,Festive
+208,Seasonal,Jacket,Unisex,Winter,Travel
+209,Seasonal,Jacket,Unisex,Winter,Travel
+210,Traditional,Kurti,Women,Summer,Festive
+211,Western,Jeans,Unisex,All,Casual
+212,Western,Jeans,Unisex,All,Casual
+213,Western,Dress,Women,Summer,Party
+214,Western,Jeans,Unisex,All,Casual
+215,Traditional,Saree,Women,All,Wedding
+216,Traditional,Kurta Pajama,Men,All,Casual
+217,Traditional,Lehenga,Women,All,Party
+218,Seasonal,Hoodie,Unisex,Winter,Casual
+219,Seasonal,Hoodie,Unisex,Winter,Casual
+220,Seasonal,Hoodie,Unisex,Winter,Casual
+221,Western,Formal Suit,Men,Winter,Party
+222,Western,T-Shirt,Men,Summer,Casual
+223,Western,Skirt,Women,Summer,Casual
+224,Traditional,Saree,Women,All,Festive
+225,Traditional,Saree,Women,All,Wedding
+226,Western,Dress,Women,Summer,Casual
+227,Western,Dress,Women,Summer,Party
+228,Western,Skirt,Women,Summer,Office
+229,Western,T-Shirt,Men,Summer,Casual
+230,Western,T-Shirt,Men,Summer,Casual
+231,Western,Formal Suit,Men,Winter,Office
+232,Seasonal,Hoodie,Unisex,Winter,Casual
+233,Western,Dress,Women,Summer,Casual
+234,Seasonal,Jacket,Unisex,Winter,Casual
+235,Western,Formal Suit,Men,Winter,Party
+236,Western,Shirt,Men,All,Party
+237,Traditional,Kurta Pajama,Men,All,Festive
+238,Western,Shirt,Men,All,Office
+239,Western,Jeans,Unisex,All,Casual
+240,Western,Formal Suit,Men,Winter,Office
+241,Traditional,Sherwani,Men,Winter,Wedding
+242,Traditional,Kurta Pajama,Men,All,Casual
+243,Western,Formal Suit,Men,Winter,Party
+244,Traditional,Kurti,Women,Summer,Festive
+245,Western,Skirt,Women,Summer,Office
+246,Traditional,Salwar Kameez,Women,All,Casual
+247,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+248,Seasonal,Hoodie,Unisex,Winter,Casual
+249,Traditional,Salwar Kameez,Women,All,Casual
+250,Western,Skirt,Women,Summer,Casual
+251,Western,Jeans,Unisex,All,Casual
+252,Western,Jeans,Unisex,All,Casual
+253,Western,Dress,Women,Summer,Casual
+254,Western,Dress,Women,Summer,Party
+255,Seasonal,Hoodie,Unisex,Winter,Casual
+256,Traditional,Kurti,Women,Summer,Casual
+257,Western,Formal Suit,Men,Winter,Office
+258,Western,Shirt,Men,All,Party
+259,Western,Skirt,Women,Summer,Office
+260,Traditional,Kurti,Women,Summer,Casual
+261,Traditional,Saree,Women,All,Festive
+262,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+263,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+264,Western,Skirt,Women,Summer,Casual
+265,Western,T-Shirt,Men,Summer,Casual
+266,Traditional,Sherwani,Men,Winter,Wedding
+267,Western,Skirt,Women,Summer,Casual
+268,Seasonal,Jacket,Unisex,Winter,Travel
+269,Western,T-Shirt,Men,Summer,Casual
+270,Seasonal,Hoodie,Unisex,Winter,Casual
+271,Western,Jeans,Unisex,All,Casual
+272,Western,Dress,Women,Summer,Party
+273,Western,Dress,Women,Summer,Casual
+274,Western,T-Shirt,Men,Summer,Casual
+275,Western,Jeans,Unisex,All,Casual
+276,Traditional,Kurti,Women,Summer,Casual
+277,Traditional,Kurti,Women,Summer,Festive
+278,Seasonal,Jacket,Unisex,Winter,Casual
+279,Traditional,Salwar Kameez,Women,All,Office
+280,Traditional,Saree,Women,All,Wedding
+281,Traditional,Sherwani,Men,Winter,Festive
+282,Seasonal,Jacket,Unisex,Winter,Travel
+283,Western,Shirt,Men,All,Office
+284,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+285,Western,T-Shirt,Men,Summer,Casual
+286,Traditional,Saree,Women,All,Wedding
+287,Seasonal,Raincoat,Unisex,Monsoon,Travel
+288,Seasonal,Hoodie,Unisex,Winter,Casual
+289,Seasonal,Hoodie,Unisex,Winter,Casual
+290,Traditional,Salwar Kameez,Women,All,Office
+291,Seasonal,Raincoat,Unisex,Monsoon,Travel
+292,Traditional,Salwar Kameez,Women,All,Casual
+293,Western,Formal Suit,Men,Winter,Office
+294,Seasonal,Woolen Sweater,Unisex,Winter,Office
+295,Traditional,Kurta Pajama,Men,All,Casual
+296,Traditional,Saree,Women,All,Festive
+297,Traditional,Kurti,Women,Summer,Festive
+298,Western,Formal Suit,Men,Winter,Party
+299,Western,T-Shirt,Men,Summer,Casual
+300,Traditional,Sherwani,Men,Winter,Festive
+301,Western,Shirt,Men,All,Office
+302,Traditional,Kurti,Women,Summer,Festive
+303,Seasonal,Jacket,Unisex,Winter,Travel
+304,Western,Skirt,Women,Summer,Office
+305,Western,Dress,Women,Summer,Casual
+306,Traditional,Saree,Women,All,Wedding
+307,Traditional,Salwar Kameez,Women,All,Casual
+308,Western,Shirt,Men,All,Office
+309,Western,Skirt,Women,Summer,Office
+310,Western,Dress,Women,Summer,Party
+311,Western,Skirt,Women,Summer,Casual
+312,Seasonal,Hoodie,Unisex,Winter,Casual
+313,Western,Skirt,Women,Summer,Office
+314,Seasonal,Jacket,Unisex,Winter,Casual
+315,Traditional,Sherwani,Men,Winter,Festive
+316,Western,Dress,Women,Summer,Casual
+317,Traditional,Sherwani,Men,Winter,Festive
+318,Traditional,Sherwani,Men,Winter,Wedding
+319,Seasonal,Raincoat,Unisex,Monsoon,Travel
+320,Western,Formal Suit,Men,Winter,Office
+321,Seasonal,Hoodie,Unisex,Winter,Casual
+322,Seasonal,Jacket,Unisex,Winter,Casual
+323,Seasonal,Jacket,Unisex,Winter,Casual
+324,Traditional,Kurti,Women,Summer,Festive
+325,Western,Shirt,Men,All,Office
+326,Traditional,Salwar Kameez,Women,All,Office
+327,Western,Dress,Women,Summer,Casual
+328,Traditional,Salwar Kameez,Women,All,Office
+329,Western,T-Shirt,Men,Summer,Casual
+330,Traditional,Salwar Kameez,Women,All,Casual
+331,Western,Jeans,Unisex,All,Casual
+332,Traditional,Saree,Women,All,Festive
+333,Western,Jeans,Unisex,All,Casual
+334,Traditional,Salwar Kameez,Women,All,Office
+335,Traditional,Kurti,Women,Summer,Casual
+336,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+337,Western,Formal Suit,Men,Winter,Office
+338,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+339,Seasonal,Jacket,Unisex,Winter,Casual
+340,Western,Skirt,Women,Summer,Office
+341,Western,T-Shirt,Men,Summer,Casual
+342,Western,Skirt,Women,Summer,Casual
+343,Western,Dress,Women,Summer,Casual
+344,Western,Formal Suit,Men,Winter,Party
+345,Seasonal,Jacket,Unisex,Winter,Travel
+346,Seasonal,Jacket,Unisex,Winter,Casual
+347,Traditional,Salwar Kameez,Women,All,Office
+348,Seasonal,Hoodie,Unisex,Winter,Casual
+349,Traditional,Lehenga,Women,All,Party
+350,Western,Skirt,Women,Summer,Casual
+351,Western,Dress,Women,Summer,Party
+352,Traditional,Lehenga,Women,All,Party
+353,Western,Formal Suit,Men,Winter,Party
+354,Seasonal,Woolen Sweater,Unisex,Winter,Office
+355,Seasonal,Jacket,Unisex,Winter,Travel
+356,Traditional,Salwar Kameez,Women,All,Casual
+357,Traditional,Kurta Pajama,Men,All,Festive
+358,Traditional,Kurta Pajama,Men,All,Casual
+359,Western,Jeans,Unisex,All,Casual
+360,Traditional,Sherwani,Men,Winter,Festive
+361,Seasonal,Jacket,Unisex,Winter,Casual
+362,Traditional,Saree,Women,All,Festive
+363,Western,Dress,Women,Summer,Casual
+364,Traditional,Kurta Pajama,Men,All,Festive
+365,Western,Formal Suit,Men,Winter,Office
+366,Traditional,Lehenga,Women,All,Party
+367,Western,Formal Suit,Men,Winter,Party
+368,Traditional,Salwar Kameez,Women,All,Casual
+369,Traditional,Sherwani,Men,Winter,Wedding
+370,Seasonal,Hoodie,Unisex,Winter,Casual
+371,Traditional,Sherwani,Men,Winter,Festive
+372,Traditional,Kurti,Women,Summer,Casual
+373,Traditional,Kurta Pajama,Men,All,Festive
+374,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+375,Western,Dress,Women,Summer,Party
+376,Seasonal,Hoodie,Unisex,Winter,Casual
+377,Seasonal,Jacket,Unisex,Winter,Casual
+378,Seasonal,Raincoat,Unisex,Monsoon,Travel
+379,Traditional,Sherwani,Men,Winter,Wedding
+380,Traditional,Saree,Women,All,Wedding
+381,Traditional,Lehenga,Women,All,Wedding
+382,Seasonal,Hoodie,Unisex,Winter,Casual
+383,Traditional,Lehenga,Women,All,Wedding
+384,Traditional,Kurti,Women,Summer,Casual
+385,Traditional,Kurta Pajama,Men,All,Casual
+386,Traditional,Sherwani,Men,Winter,Wedding
+387,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+388,Western,Formal Suit,Men,Winter,Office
+389,Western,Formal Suit,Men,Winter,Party
+390,Western,Jeans,Unisex,All,Casual
+391,Western,Skirt,Women,Summer,Office
+392,Seasonal,Woolen Sweater,Unisex,Winter,Office
+393,Traditional,Sherwani,Men,Winter,Wedding
+394,Western,T-Shirt,Men,Summer,Casual
+395,Western,Formal Suit,Men,Winter,Office
+396,Traditional,Kurta Pajama,Men,All,Casual
+397,Western,T-Shirt,Men,Summer,Casual
+398,Seasonal,Raincoat,Unisex,Monsoon,Travel
+399,Western,Jeans,Unisex,All,Casual
+400,Western,Jeans,Unisex,All,Casual
+401,Western,Shirt,Men,All,Party
+402,Traditional,Saree,Women,All,Festive
+403,Western,Skirt,Women,Summer,Casual
+404,Western,Shirt,Men,All,Office
+405,Traditional,Kurti,Women,Summer,Casual
+406,Traditional,Lehenga,Women,All,Wedding
+407,Western,T-Shirt,Men,Summer,Casual
+408,Traditional,Lehenga,Women,All,Party
+409,Traditional,Lehenga,Women,All,Wedding
+410,Western,Shirt,Men,All,Office
+411,Traditional,Salwar Kameez,Women,All,Office
+412,Western,Shirt,Men,All,Party
+413,Traditional,Kurti,Women,Summer,Festive
+414,Seasonal,Hoodie,Unisex,Winter,Casual
+415,Seasonal,Hoodie,Unisex,Winter,Casual
+416,Western,Dress,Women,Summer,Casual
+417,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+418,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+419,Seasonal,Hoodie,Unisex,Winter,Casual
+420,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+421,Traditional,Lehenga,Women,All,Wedding
+422,Traditional,Lehenga,Women,All,Party
+423,Western,Skirt,Women,Summer,Office
+424,Western,Jeans,Unisex,All,Casual
+425,Traditional,Sherwani,Men,Winter,Wedding
+426,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+427,Traditional,Kurta Pajama,Men,All,Festive
+428,Western,Jeans,Unisex,All,Casual
+429,Traditional,Kurti,Women,Summer,Casual
+430,Traditional,Sherwani,Men,Winter,Wedding
+431,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+432,Traditional,Kurta Pajama,Men,All,Festive
+433,Traditional,Lehenga,Women,All,Wedding
+434,Seasonal,Jacket,Unisex,Winter,Casual
+435,Seasonal,Jacket,Unisex,Winter,Travel
+436,Seasonal,Jacket,Unisex,Winter,Casual
+437,Western,Skirt,Women,Summer,Casual
+438,Western,Dress,Women,Summer,Casual
+439,Western,Dress,Women,Summer,Casual
+440,Traditional,Sherwani,Men,Winter,Festive
+441,Traditional,Lehenga,Women,All,Wedding
+442,Western,Dress,Women,Summer,Party
+443,Western,T-Shirt,Men,Summer,Casual
+444,Seasonal,Hoodie,Unisex,Winter,Casual
+445,Western,Jeans,Unisex,All,Casual
+446,Western,T-Shirt,Men,Summer,Casual
+447,Traditional,Kurta Pajama,Men,All,Festive
+448,Traditional,Kurta Pajama,Men,All,Festive
+449,Western,Dress,Women,Summer,Casual
+450,Seasonal,Jacket,Unisex,Winter,Casual
+451,Traditional,Saree,Women,All,Festive
+452,Traditional,Kurta Pajama,Men,All,Festive
+453,Seasonal,Woolen Sweater,Unisex,Winter,Office
+454,Traditional,Kurti,Women,Summer,Casual
+455,Western,T-Shirt,Men,Summer,Casual
+456,Western,Dress,Women,Summer,Party
+457,Traditional,Kurti,Women,Summer,Festive
+458,Seasonal,Woolen Sweater,Unisex,Winter,Office
+459,Traditional,Lehenga,Women,All,Party
+460,Seasonal,Jacket,Unisex,Winter,Travel
+461,Traditional,Kurti,Women,Summer,Casual
+462,Seasonal,Raincoat,Unisex,Monsoon,Travel
+463,Seasonal,Jacket,Unisex,Winter,Travel
+464,Traditional,Kurti,Women,Summer,Casual
+465,Seasonal,Hoodie,Unisex,Winter,Casual
+466,Seasonal,Woolen Sweater,Unisex,Winter,Office
+467,Seasonal,Hoodie,Unisex,Winter,Casual
+468,Traditional,Salwar Kameez,Women,All,Casual
+469,Western,Jeans,Unisex,All,Casual
+470,Traditional,Saree,Women,All,Wedding
+471,Western,Skirt,Women,Summer,Office
+472,Seasonal,Hoodie,Unisex,Winter,Casual
+473,Western,Jeans,Unisex,All,Casual
+474,Traditional,Kurta Pajama,Men,All,Festive
+475,Western,Formal Suit,Men,Winter,Party
+476,Western,Skirt,Women,Summer,Casual
+477,Western,Skirt,Women,Summer,Casual
+478,Traditional,Lehenga,Women,All,Party
+479,Traditional,Kurta Pajama,Men,All,Festive
+480,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+481,Western,Skirt,Women,Summer,Office
+482,Western,Formal Suit,Men,Winter,Party
+483,Western,Skirt,Women,Summer,Office
+484,Western,Jeans,Unisex,All,Casual
+485,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+486,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+487,Seasonal,Jacket,Unisex,Winter,Travel
+488,Seasonal,Hoodie,Unisex,Winter,Casual
+489,Traditional,Kurti,Women,Summer,Festive
+490,Traditional,Saree,Women,All,Festive
+491,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+492,Western,Shirt,Men,All,Office
+493,Seasonal,Raincoat,Unisex,Monsoon,Outdoor
+494,Seasonal,Woolen Sweater,Unisex,Winter,Casual
+495,Western,Jeans,Unisex,All,Casual
+496,Western,Skirt,Women,Summer,Casual
+497,Traditional,Kurti,Women,Summer,Casual
+498,Western,Shirt,Men,All,Office
+499,Traditional,Kurti,Women,Summer,Festive
+500,Traditional,Kurti,Women,Summer,Festive
