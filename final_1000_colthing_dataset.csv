@@ -1,0 +1,1001 @@
+ID,Category,Type,Gender,Season,Occasion,Material,Color,Price Range,Age Group,Sleeve Length,Fit Type,Pattern,Brand
+1,Western,Shirt,Men,Monsoon,Office,Wool,Grey,Low,Adults,Full,Regular Fit,Printed,Levi's
+2,Western,T-Shirt,Men,All,Casual,Cotton,Pink,Low,Teens,Half,Slim Fit,Printed,Nike
+3,Traditional,Saree,Women,Monsoon,Festive,Nylon,Blue,High,Teens,Sleeveless,Regular Fit,Embroidered,FabIndia
+4,Traditional,Kurta Pajama,Men,All,Casual,Wool,Red,High,Adults,Sleeveless,Regular Fit,Striped,Zara
+5,Traditional,Lehenga,Women,Winter,Wedding,Linen,Pink,Low,Kids,Sleeveless,Regular Fit,Embroidered,Zara
+6,Western,T-Shirt,Men,Summer,Casual,Silk,Pink,High,Teens,Half,Loose Fit,Printed,Local
+7,Seasonal,Jacket,Unisex,Winter,Travel,Polyester,Grey,Low,Adults,Half,Loose Fit,Embroidered,H&M
+8,Seasonal,Raincoat,Unisex,Winter,Travel,Denim,White,High,Teens,Sleeveless,Loose Fit,Embroidered,Levi's
+9,Traditional,Kurti,Women,Summer,Festive,Nylon,Yellow,Medium,Kids,Half,Slim Fit,Solid,Zara
+10,Western,Formal Suit,Men,Monsoon,Party,Nylon,Red,Low,Kids,Full,Slim Fit,Striped,FabIndia
+11,Western,T-Shirt,Men,All,Casual,Denim,Blue,High,Seniors,Sleeveless,Slim Fit,Printed,Adidas
+12,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Red,High,Teens,Sleeveless,Loose Fit,Printed,Adidas
+13,Western,Jeans,Unisex,All,Casual,Denim,White,High,Adults,Sleeveless,Loose Fit,Printed,Zara
+14,Traditional,Saree,Women,Summer,Festive,Wool,Yellow,Low,Teens,Half,Regular Fit,Checked,Zara
+15,Western,Jeans,Unisex,Winter,Casual,Silk,Red,High,Seniors,Half,Regular Fit,Striped,FabIndia
+16,Western,Formal Suit,Men,Winter,Party,Polyester,Grey,Medium,Teens,Sleeveless,Loose Fit,Embroidered,FabIndia
+17,Western,Jeans,Unisex,Winter,Casual,Wool,Black,High,Seniors,Half,Regular Fit,Solid,Levi's
+18,Western,Formal Suit,Men,Summer,Party,Nylon,White,Low,Adults,Full,Slim Fit,Embroidered,Nike
+19,Traditional,Lehenga,Women,Monsoon,Wedding,Linen,Blue,High,Seniors,Full,Regular Fit,Checked,H&M
+20,Traditional,Kurti,Women,Monsoon,Festive,Polyester,Yellow,Medium,Kids,Full,Slim Fit,Embroidered,H&M
+21,Traditional,Kurta Pajama,Men,All,Casual,Cotton,Black,Medium,Teens,Sleeveless,Loose Fit,Striped,Levi's
+22,Traditional,Kurti,Women,Monsoon,Festive,Polyester,Green,Low,Seniors,Half,Regular Fit,Checked,Zara
+23,Western,Jeans,Unisex,All,Casual,Denim,Blue,Low,Seniors,Sleeveless,Regular Fit,Printed,Zara
+24,Western,Shirt,Men,Monsoon,Office,Nylon,White,High,Kids,Full,Regular Fit,Embroidered,Local
+25,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Green,Low,Kids,Sleeveless,Regular Fit,Checked,H&M
+26,Traditional,Kurta Pajama,Men,Monsoon,Casual,Silk,Grey,Low,Kids,Full,Loose Fit,Embroidered,FabIndia
+27,Seasonal,Raincoat,Unisex,All,Travel,Denim,Red,High,Kids,Half,Regular Fit,Embroidered,Levi's
+28,Seasonal,Jacket,Unisex,Winter,Travel,Cotton,Grey,High,Teens,Full,Loose Fit,Solid,Levi's
+29,Western,Jeans,Unisex,Winter,Casual,Polyester,White,Medium,Kids,Sleeveless,Regular Fit,Solid,H&M
+30,Western,Jeans,Unisex,Monsoon,Casual,Denim,Green,High,Teens,Sleeveless,Slim Fit,Printed,Adidas
+31,Traditional,Kurta Pajama,Men,Winter,Casual,Silk,Black,Medium,Seniors,Half,Loose Fit,Checked,H&M
+32,Western,Jeans,Unisex,Summer,Casual,Cotton,Red,Low,Kids,Half,Regular Fit,Solid,Local
+33,Traditional,Kurti,Women,Monsoon,Festive,Polyester,White,Medium,Teens,Half,Loose Fit,Printed,FabIndia
+34,Traditional,Saree,Women,All,Festive,Denim,Green,Medium,Adults,Half,Loose Fit,Checked,Zara
+35,Seasonal,Jacket,Unisex,Winter,Travel,Linen,Grey,High,Seniors,Half,Regular Fit,Printed,Adidas
+36,Seasonal,Jacket,Unisex,Winter,Travel,Polyester,Black,Low,Kids,Half,Regular Fit,Striped,Nike
+37,Seasonal,Raincoat,Unisex,Monsoon,Travel,Nylon,Red,Low,Adults,Half,Loose Fit,Printed,Adidas
+38,Western,Jeans,Unisex,Winter,Casual,Nylon,Red,High,Seniors,Half,Loose Fit,Printed,Levi's
+39,Seasonal,Hoodie,Unisex,All,Casual,Wool,Blue,Low,Kids,Full,Regular Fit,Solid,Zara
+40,Traditional,Lehenga,Women,Monsoon,Wedding,Silk,Blue,Low,Seniors,Half,Loose Fit,Embroidered,Nike
+41,Traditional,Lehenga,Women,Winter,Wedding,Linen,Pink,Medium,Teens,Half,Loose Fit,Printed,Levi's
+42,Western,T-Shirt,Men,Summer,Casual,Wool,Pink,Low,Teens,Half,Slim Fit,Striped,Local
+43,Western,Jeans,Unisex,Winter,Casual,Wool,Grey,High,Kids,Sleeveless,Loose Fit,Printed,Zara
+44,Western,Jeans,Unisex,All,Casual,Nylon,Blue,Low,Kids,Full,Regular Fit,Checked,Zara
+45,Western,T-Shirt,Men,Monsoon,Casual,Nylon,Red,Low,Kids,Sleeveless,Regular Fit,Striped,Zara
+46,Seasonal,Raincoat,Unisex,Winter,Travel,Polyester,Grey,High,Kids,Sleeveless,Regular Fit,Printed,Local
+47,Traditional,Saree,Women,Monsoon,Festive,Linen,Pink,Low,Adults,Full,Regular Fit,Embroidered,Adidas
+48,Western,Formal Suit,Men,Summer,Party,Cotton,Black,High,Teens,Full,Slim Fit,Printed,Nike
+49,Traditional,Lehenga,Women,Monsoon,Wedding,Silk,White,Low,Teens,Full,Loose Fit,Embroidered,FabIndia
+50,Seasonal,Jacket,Unisex,All,Travel,Wool,Grey,High,Adults,Full,Regular Fit,Embroidered,FabIndia
+51,Seasonal,Raincoat,Unisex,Summer,Travel,Denim,White,Low,Adults,Half,Regular Fit,Checked,Zara
+52,Seasonal,Jacket,Unisex,Winter,Travel,Cotton,Green,Low,Seniors,Full,Slim Fit,Checked,Local
+53,Western,Shirt,Men,Summer,Office,Cotton,White,Low,Adults,Full,Loose Fit,Striped,H&M
+54,Seasonal,Jacket,Unisex,Summer,Travel,Linen,Grey,Medium,Kids,Half,Slim Fit,Printed,FabIndia
+55,Seasonal,Hoodie,Unisex,Winter,Casual,Linen,Red,Low,Teens,Full,Loose Fit,Solid,Levi's
+56,Seasonal,Hoodie,Unisex,All,Casual,Nylon,Yellow,Medium,Kids,Full,Regular Fit,Checked,Local
+57,Western,T-Shirt,Men,Summer,Casual,Polyester,Grey,Medium,Adults,Full,Regular Fit,Solid,Zara
+58,Western,Formal Suit,Men,Summer,Party,Denim,Pink,Medium,Adults,Sleeveless,Slim Fit,Solid,Levi's
+59,Traditional,Kurti,Women,All,Festive,Nylon,White,High,Adults,Half,Loose Fit,Striped,Zara
+60,Traditional,Sherwani,Men,Winter,Festive,Nylon,Yellow,Low,Seniors,Sleeveless,Regular Fit,Checked,Zara
+61,Traditional,Saree,Women,All,Festive,Denim,White,High,Seniors,Half,Regular Fit,Checked,H&M
+62,Western,T-Shirt,Men,Summer,Casual,Wool,Black,High,Kids,Sleeveless,Loose Fit,Striped,Local
+63,Traditional,Lehenga,Women,All,Wedding,Wool,Grey,Low,Seniors,Sleeveless,Slim Fit,Embroidered,Local
+64,Traditional,Lehenga,Women,All,Wedding,Polyester,Black,Low,Adults,Full,Slim Fit,Embroidered,H&M
+65,Western,Formal Suit,Men,All,Party,Cotton,Grey,Low,Teens,Sleeveless,Regular Fit,Printed,Levi's
+66,Western,Shirt,Men,All,Office,Denim,Blue,Medium,Adults,Sleeveless,Slim Fit,Checked,FabIndia
+67,Western,Shirt,Men,Winter,Office,Cotton,Pink,Medium,Adults,Sleeveless,Slim Fit,Embroidered,Nike
+68,Traditional,Kurta Pajama,Men,Summer,Casual,Linen,Blue,High,Teens,Full,Regular Fit,Checked,Adidas
+69,Western,Formal Suit,Men,All,Party,Denim,Green,High,Teens,Half,Slim Fit,Printed,FabIndia
+70,Western,Jeans,Unisex,All,Casual,Polyester,White,Low,Seniors,Full,Regular Fit,Striped,Adidas
+71,Western,Formal Suit,Men,Monsoon,Party,Wool,Green,Low,Adults,Half,Slim Fit,Embroidered,Levi's
+72,Seasonal,Hoodie,Unisex,Winter,Casual,Wool,Pink,Low,Teens,Sleeveless,Loose Fit,Striped,H&M
+73,Traditional,Salwar Kameez,Women,Winter,Office,Denim,Red,Medium,Kids,Sleeveless,Regular Fit,Printed,Nike
+74,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,Green,Medium,Adults,Full,Regular Fit,Embroidered,Local
+75,Traditional,Sherwani,Men,Winter,Festive,Cotton,Black,High,Adults,Full,Slim Fit,Embroidered,Levi's
+76,Traditional,Salwar Kameez,Women,All,Office,Cotton,Green,Low,Kids,Half,Regular Fit,Printed,Levi's
+77,Western,Jeans,Unisex,Winter,Casual,Silk,Green,Medium,Kids,Sleeveless,Regular Fit,Embroidered,H&M
+78,Western,Jeans,Unisex,All,Casual,Denim,Black,Low,Adults,Full,Loose Fit,Solid,Local
+79,Seasonal,Raincoat,Unisex,All,Travel,Denim,Blue,Medium,Seniors,Half,Slim Fit,Checked,Adidas
+80,Traditional,Saree,Women,Summer,Festive,Cotton,Green,Medium,Seniors,Sleeveless,Loose Fit,Checked,Nike
+81,Seasonal,Hoodie,Unisex,All,Casual,Denim,Black,High,Adults,Full,Regular Fit,Checked,H&M
+82,Western,Formal Suit,Men,Monsoon,Party,Wool,Pink,Medium,Kids,Sleeveless,Regular Fit,Printed,Nike
+83,Traditional,Saree,Women,Monsoon,Festive,Denim,Blue,Low,Kids,Full,Regular Fit,Printed,Nike
+84,Western,Shirt,Men,Monsoon,Office,Denim,Blue,Medium,Seniors,Full,Regular Fit,Checked,Nike
+85,Western,Jeans,Unisex,Winter,Casual,Cotton,Grey,High,Kids,Half,Loose Fit,Striped,Zara
+86,Traditional,Saree,Women,Summer,Festive,Nylon,Blue,High,Seniors,Full,Slim Fit,Solid,Nike
+87,Western,T-Shirt,Men,Monsoon,Casual,Wool,Red,Medium,Teens,Sleeveless,Loose Fit,Printed,Zara
+88,Traditional,Sherwani,Men,All,Festive,Nylon,Yellow,Low,Seniors,Half,Loose Fit,Striped,Nike
+89,Western,Shirt,Men,All,Office,Linen,Yellow,Medium,Kids,Sleeveless,Regular Fit,Embroidered,FabIndia
+90,Traditional,Kurti,Women,Winter,Festive,Wool,Pink,Low,Teens,Sleeveless,Slim Fit,Solid,FabIndia
+91,Western,Formal Suit,Men,Winter,Party,Linen,White,Medium,Seniors,Full,Slim Fit,Striped,Zara
+92,Traditional,Kurti,Women,All,Festive,Nylon,Yellow,High,Seniors,Half,Slim Fit,Printed,Adidas
+93,Traditional,Sherwani,Men,All,Festive,Linen,Grey,Low,Teens,Sleeveless,Slim Fit,Printed,H&M
+94,Western,Shirt,Men,Summer,Office,Denim,Pink,Low,Adults,Full,Loose Fit,Solid,Local
+95,Traditional,Kurta Pajama,Men,All,Casual,Silk,Blue,High,Teens,Full,Slim Fit,Embroidered,Zara
+96,Western,Jeans,Unisex,All,Casual,Cotton,Red,Medium,Teens,Sleeveless,Regular Fit,Printed,Nike
+97,Traditional,Sherwani,Men,Monsoon,Festive,Nylon,Black,Low,Seniors,Sleeveless,Slim Fit,Checked,Adidas
+98,Traditional,Kurta Pajama,Men,Summer,Casual,Linen,White,Low,Teens,Full,Regular Fit,Striped,Adidas
+99,Western,Jeans,Unisex,Winter,Casual,Nylon,Black,Low,Seniors,Half,Loose Fit,Striped,Adidas
+100,Western,Shirt,Men,Winter,Office,Silk,Pink,Low,Adults,Full,Loose Fit,Printed,H&M
+101,Traditional,Salwar Kameez,Women,Summer,Office,Denim,White,Low,Kids,Full,Slim Fit,Checked,FabIndia
+102,Seasonal,Hoodie,Unisex,Monsoon,Casual,Silk,Blue,Medium,Adults,Half,Loose Fit,Checked,Nike
+103,Western,Jeans,Unisex,Summer,Casual,Polyester,Pink,Low,Teens,Half,Loose Fit,Embroidered,Nike
+104,Traditional,Kurti,Women,Winter,Festive,Polyester,Red,Low,Seniors,Sleeveless,Regular Fit,Checked,Adidas
+105,Traditional,Saree,Women,Monsoon,Festive,Nylon,Black,High,Kids,Sleeveless,Regular Fit,Embroidered,Zara
+106,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,Yellow,Medium,Kids,Half,Regular Fit,Checked,Nike
+107,Western,Jeans,Unisex,Monsoon,Casual,Silk,Blue,High,Teens,Half,Slim Fit,Embroidered,H&M
+108,Traditional,Kurta Pajama,Men,Summer,Casual,Polyester,Green,Medium,Kids,Full,Slim Fit,Striped,Local
+109,Western,Formal Suit,Men,Monsoon,Party,Nylon,Blue,Low,Teens,Full,Slim Fit,Striped,Adidas
+110,Western,T-Shirt,Men,Winter,Casual,Cotton,Black,Low,Kids,Sleeveless,Slim Fit,Printed,FabIndia
+111,Traditional,Kurti,Women,Winter,Festive,Silk,Yellow,Medium,Adults,Sleeveless,Slim Fit,Striped,H&M
+112,Seasonal,Hoodie,Unisex,Winter,Casual,Wool,Pink,Low,Kids,Sleeveless,Slim Fit,Solid,H&M
+113,Traditional,Saree,Women,Monsoon,Festive,Nylon,Grey,Medium,Teens,Half,Loose Fit,Embroidered,Adidas
+114,Seasonal,Hoodie,Unisex,Monsoon,Casual,Linen,Yellow,High,Kids,Full,Slim Fit,Striped,Adidas
+115,Seasonal,Jacket,Unisex,Summer,Travel,Cotton,Yellow,High,Seniors,Sleeveless,Slim Fit,Solid,FabIndia
+116,Seasonal,Hoodie,Unisex,Winter,Casual,Denim,White,Low,Adults,Sleeveless,Regular Fit,Checked,H&M
+117,Western,Jeans,Unisex,Summer,Casual,Cotton,Pink,Low,Seniors,Full,Loose Fit,Solid,Nike
+118,Traditional,Lehenga,Women,Winter,Wedding,Denim,Yellow,Low,Teens,Full,Slim Fit,Embroidered,Adidas
+119,Traditional,Lehenga,Women,Summer,Wedding,Polyester,Green,High,Adults,Sleeveless,Slim Fit,Checked,Local
+120,Western,T-Shirt,Men,Winter,Casual,Denim,Yellow,High,Seniors,Half,Regular Fit,Solid,H&M
+121,Seasonal,Raincoat,Unisex,Summer,Travel,Wool,Red,Medium,Seniors,Full,Loose Fit,Printed,Nike
+122,Traditional,Sherwani,Men,Summer,Festive,Polyester,Red,High,Seniors,Full,Regular Fit,Printed,Adidas
+123,Western,Formal Suit,Men,Winter,Party,Linen,Grey,Medium,Kids,Sleeveless,Regular Fit,Printed,Levi's
+124,Traditional,Saree,Women,Monsoon,Festive,Nylon,Green,Low,Teens,Full,Regular Fit,Solid,Adidas
+125,Western,Formal Suit,Men,Winter,Party,Wool,Black,Low,Kids,Full,Slim Fit,Striped,H&M
+126,Seasonal,Hoodie,Unisex,All,Casual,Silk,Blue,Low,Seniors,Half,Regular Fit,Striped,FabIndia
+127,Western,Shirt,Men,Monsoon,Office,Polyester,Blue,Low,Kids,Half,Slim Fit,Checked,FabIndia
+128,Western,Jeans,Unisex,Monsoon,Casual,Silk,Yellow,Medium,Seniors,Sleeveless,Loose Fit,Checked,Local
+129,Seasonal,Raincoat,Unisex,Summer,Travel,Polyester,Red,Low,Seniors,Half,Loose Fit,Embroidered,Levi's
+130,Western,T-Shirt,Men,Winter,Casual,Nylon,Blue,Low,Kids,Sleeveless,Regular Fit,Checked,H&M
+131,Seasonal,Raincoat,Unisex,Monsoon,Travel,Wool,Grey,Medium,Kids,Half,Regular Fit,Embroidered,Local
+132,Western,Formal Suit,Men,Winter,Party,Wool,Green,Medium,Kids,Sleeveless,Regular Fit,Checked,Nike
+133,Seasonal,Hoodie,Unisex,Summer,Casual,Cotton,Blue,Low,Teens,Sleeveless,Loose Fit,Striped,Levi's
+134,Western,T-Shirt,Men,All,Casual,Cotton,Blue,Medium,Kids,Half,Loose Fit,Solid,Local
+135,Traditional,Sherwani,Men,Winter,Festive,Wool,Grey,High,Kids,Sleeveless,Slim Fit,Embroidered,Nike
+136,Seasonal,Jacket,Unisex,Summer,Travel,Polyester,Green,High,Adults,Full,Loose Fit,Striped,Levi's
+137,Traditional,Lehenga,Women,Monsoon,Wedding,Denim,Yellow,High,Teens,Full,Slim Fit,Solid,Nike
+138,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Pink,Low,Kids,Half,Loose Fit,Striped,Levi's
+139,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,Red,Low,Kids,Full,Regular Fit,Checked,Levi's
+140,Traditional,Sherwani,Men,Winter,Festive,Wool,Pink,Low,Kids,Full,Regular Fit,Checked,Levi's
+141,Traditional,Lehenga,Women,Winter,Wedding,Polyester,Blue,Medium,Adults,Sleeveless,Regular Fit,Printed,Nike
+142,Western,Jeans,Unisex,Winter,Casual,Linen,Yellow,Medium,Kids,Full,Loose Fit,Striped,H&M
+143,Western,Shirt,Men,Monsoon,Office,Wool,Green,Low,Kids,Half,Regular Fit,Printed,Local
+144,Traditional,Kurta Pajama,Men,Monsoon,Casual,Polyester,Red,High,Teens,Sleeveless,Regular Fit,Striped,Adidas
+145,Traditional,Lehenga,Women,Summer,Wedding,Polyester,Yellow,Medium,Kids,Full,Regular Fit,Checked,Zara
+146,Seasonal,Hoodie,Unisex,Monsoon,Casual,Nylon,Red,Medium,Teens,Half,Loose Fit,Checked,H&M
+147,Western,Shirt,Men,Winter,Office,Nylon,Red,High,Teens,Half,Slim Fit,Solid,FabIndia
+148,Traditional,Salwar Kameez,Women,Summer,Office,Wool,Blue,Medium,Seniors,Half,Loose Fit,Solid,FabIndia
+149,Seasonal,Raincoat,Unisex,Winter,Travel,Polyester,Yellow,Low,Adults,Sleeveless,Loose Fit,Solid,H&M
+150,Seasonal,Raincoat,Unisex,Summer,Travel,Cotton,Green,High,Seniors,Half,Slim Fit,Printed,Nike
+151,Traditional,Saree,Women,All,Festive,Wool,Blue,Medium,Seniors,Sleeveless,Slim Fit,Printed,Levi's
+152,Western,Jeans,Unisex,Summer,Casual,Linen,Black,Medium,Adults,Sleeveless,Regular Fit,Printed,Adidas
+153,Seasonal,Jacket,Unisex,Winter,Travel,Linen,White,Medium,Adults,Sleeveless,Loose Fit,Striped,Zara
+154,Traditional,Kurti,Women,Winter,Festive,Denim,Red,Medium,Seniors,Sleeveless,Loose Fit,Checked,Local
+155,Western,Formal Suit,Men,Summer,Party,Linen,Blue,High,Teens,Sleeveless,Slim Fit,Solid,Zara
+156,Traditional,Saree,Women,Monsoon,Festive,Silk,Yellow,High,Adults,Full,Slim Fit,Solid,Levi's
+157,Western,Formal Suit,Men,Monsoon,Party,Silk,Red,Medium,Kids,Sleeveless,Slim Fit,Striped,Local
+158,Traditional,Kurti,Women,Summer,Festive,Denim,Red,Medium,Teens,Full,Regular Fit,Printed,Local
+159,Traditional,Kurta Pajama,Men,Monsoon,Casual,Wool,Yellow,Medium,Seniors,Full,Loose Fit,Printed,Levi's
+160,Traditional,Lehenga,Women,Winter,Wedding,Silk,Pink,Medium,Seniors,Full,Regular Fit,Solid,Nike
+161,Western,Formal Suit,Men,Winter,Party,Silk,Pink,Low,Teens,Full,Slim Fit,Embroidered,H&M
+162,Traditional,Lehenga,Women,Summer,Wedding,Cotton,Red,Low,Teens,Sleeveless,Slim Fit,Checked,Adidas
+163,Traditional,Salwar Kameez,Women,Summer,Office,Wool,Blue,Low,Seniors,Sleeveless,Slim Fit,Embroidered,Nike
+164,Western,Jeans,Unisex,All,Casual,Wool,Red,Low,Teens,Sleeveless,Regular Fit,Checked,Zara
+165,Western,Formal Suit,Men,All,Party,Denim,Black,Low,Adults,Sleeveless,Loose Fit,Embroidered,Local
+166,Western,Shirt,Men,Summer,Office,Nylon,Blue,Medium,Teens,Full,Slim Fit,Embroidered,Levi's
+167,Traditional,Saree,Women,All,Festive,Linen,Yellow,High,Adults,Half,Regular Fit,Embroidered,H&M
+168,Western,Formal Suit,Men,Winter,Party,Wool,Yellow,High,Adults,Sleeveless,Slim Fit,Printed,FabIndia
+169,Seasonal,Jacket,Unisex,Monsoon,Travel,Wool,Grey,High,Teens,Full,Regular Fit,Embroidered,Zara
+170,Traditional,Kurti,Women,Monsoon,Festive,Denim,Grey,Medium,Kids,Half,Regular Fit,Solid,Local
+171,Traditional,Kurta Pajama,Men,Winter,Casual,Linen,Black,Medium,Teens,Full,Slim Fit,Solid,Adidas
+172,Western,T-Shirt,Men,Winter,Casual,Wool,Blue,High,Adults,Full,Loose Fit,Printed,Adidas
+173,Western,Jeans,Unisex,Summer,Casual,Nylon,White,Low,Kids,Half,Regular Fit,Solid,Levi's
+174,Traditional,Saree,Women,Summer,Festive,Linen,Red,Low,Adults,Full,Slim Fit,Embroidered,Levi's
+175,Traditional,Lehenga,Women,Winter,Wedding,Denim,Pink,High,Adults,Full,Regular Fit,Printed,Local
+176,Western,Formal Suit,Men,Monsoon,Party,Wool,Green,High,Kids,Full,Regular Fit,Solid,Levi's
+177,Western,Jeans,Unisex,Winter,Casual,Silk,White,Medium,Kids,Sleeveless,Loose Fit,Printed,Levi's
+178,Seasonal,Raincoat,Unisex,Monsoon,Travel,Denim,Yellow,Low,Adults,Full,Regular Fit,Embroidered,Local
+179,Seasonal,Raincoat,Unisex,Winter,Travel,Silk,Red,High,Seniors,Half,Slim Fit,Checked,Zara
+180,Traditional,Saree,Women,Winter,Festive,Polyester,Green,Low,Seniors,Sleeveless,Loose Fit,Printed,Zara
+181,Western,Formal Suit,Men,Monsoon,Party,Wool,Yellow,High,Seniors,Sleeveless,Slim Fit,Solid,FabIndia
+182,Traditional,Kurti,Women,All,Festive,Denim,Pink,High,Seniors,Full,Regular Fit,Solid,Local
+183,Traditional,Kurti,Women,Winter,Festive,Polyester,Blue,Low,Seniors,Full,Loose Fit,Checked,Levi's
+184,Traditional,Lehenga,Women,Summer,Wedding,Wool,Grey,Medium,Seniors,Sleeveless,Regular Fit,Embroidered,Local
+185,Seasonal,Raincoat,Unisex,Monsoon,Travel,Silk,Pink,High,Seniors,Full,Slim Fit,Solid,H&M
+186,Western,Shirt,Men,Summer,Office,Silk,White,Medium,Adults,Sleeveless,Slim Fit,Solid,Adidas
+187,Traditional,Saree,Women,Summer,Festive,Nylon,Blue,Low,Teens,Full,Regular Fit,Striped,FabIndia
+188,Western,Formal Suit,Men,Summer,Party,Polyester,Blue,High,Teens,Sleeveless,Slim Fit,Striped,Levi's
+189,Seasonal,Raincoat,Unisex,Monsoon,Travel,Silk,Blue,Low,Seniors,Half,Slim Fit,Embroidered,Nike
+190,Western,T-Shirt,Men,Summer,Casual,Nylon,White,Medium,Teens,Full,Loose Fit,Solid,Adidas
+191,Western,Jeans,Unisex,All,Casual,Denim,Blue,Low,Adults,Sleeveless,Slim Fit,Checked,Local
+192,Western,Shirt,Men,Winter,Office,Cotton,White,Low,Kids,Sleeveless,Slim Fit,Printed,Nike
+193,Traditional,Sherwani,Men,All,Festive,Silk,White,Low,Teens,Sleeveless,Regular Fit,Checked,Nike
+194,Western,T-Shirt,Men,All,Casual,Cotton,Red,Low,Adults,Sleeveless,Loose Fit,Solid,Local
+195,Seasonal,Raincoat,Unisex,Winter,Travel,Nylon,Yellow,Low,Teens,Sleeveless,Loose Fit,Printed,Nike
+196,Seasonal,Jacket,Unisex,Winter,Travel,Cotton,Red,Medium,Adults,Sleeveless,Slim Fit,Striped,Levi's
+197,Western,T-Shirt,Men,Monsoon,Casual,Wool,Grey,Medium,Seniors,Sleeveless,Loose Fit,Embroidered,Local
+198,Traditional,Sherwani,Men,All,Festive,Nylon,Black,Medium,Teens,Full,Loose Fit,Solid,FabIndia
+199,Seasonal,Jacket,Unisex,Summer,Travel,Silk,Blue,High,Teens,Sleeveless,Loose Fit,Striped,FabIndia
+200,Traditional,Kurti,Women,Monsoon,Festive,Linen,White,High,Teens,Full,Regular Fit,Printed,H&M
+201,Traditional,Sherwani,Men,Winter,Festive,Nylon,Black,High,Seniors,Full,Regular Fit,Printed,FabIndia
+202,Traditional,Sherwani,Men,Summer,Festive,Cotton,Yellow,Low,Seniors,Half,Slim Fit,Embroidered,Zara
+203,Traditional,Salwar Kameez,Women,All,Office,Cotton,Black,Medium,Seniors,Sleeveless,Loose Fit,Solid,Adidas
+204,Seasonal,Raincoat,Unisex,Monsoon,Travel,Nylon,White,High,Teens,Sleeveless,Regular Fit,Solid,H&M
+205,Traditional,Lehenga,Women,Winter,Wedding,Nylon,Black,High,Seniors,Full,Regular Fit,Striped,Zara
+206,Traditional,Saree,Women,Winter,Festive,Linen,Yellow,Medium,Teens,Half,Loose Fit,Printed,Local
+207,Seasonal,Jacket,Unisex,Monsoon,Travel,Linen,Green,Low,Adults,Half,Regular Fit,Printed,Nike
+208,Traditional,Saree,Women,Winter,Festive,Nylon,Black,Low,Teens,Full,Regular Fit,Solid,Adidas
+209,Seasonal,Raincoat,Unisex,Summer,Travel,Cotton,Pink,Low,Kids,Half,Loose Fit,Solid,Local
+210,Traditional,Kurti,Women,All,Festive,Cotton,Yellow,Medium,Teens,Half,Slim Fit,Embroidered,Zara
+211,Western,Shirt,Men,Summer,Office,Wool,Red,High,Seniors,Half,Loose Fit,Checked,Zara
+212,Western,Shirt,Men,Monsoon,Office,Linen,Green,High,Adults,Sleeveless,Loose Fit,Striped,Local
+213,Western,Jeans,Unisex,Winter,Casual,Wool,Blue,High,Seniors,Sleeveless,Regular Fit,Printed,Adidas
+214,Seasonal,Jacket,Unisex,Summer,Travel,Denim,Grey,High,Kids,Full,Regular Fit,Printed,Nike
+215,Western,Formal Suit,Men,Summer,Party,Nylon,Pink,Low,Kids,Full,Regular Fit,Striped,Local
+216,Western,Shirt,Men,Monsoon,Office,Polyester,White,Low,Kids,Half,Loose Fit,Striped,Zara
+217,Traditional,Salwar Kameez,Women,Monsoon,Office,Linen,Grey,Medium,Adults,Sleeveless,Slim Fit,Checked,Local
+218,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Grey,Medium,Teens,Sleeveless,Slim Fit,Printed,Nike
+219,Traditional,Saree,Women,Winter,Festive,Cotton,Grey,High,Teens,Half,Slim Fit,Printed,H&M
+220,Traditional,Kurti,Women,Winter,Festive,Nylon,Grey,Medium,Adults,Sleeveless,Regular Fit,Solid,Local
+221,Seasonal,Hoodie,Unisex,Summer,Casual,Silk,Blue,Medium,Seniors,Sleeveless,Loose Fit,Checked,Nike
+222,Western,Jeans,Unisex,Winter,Casual,Wool,Red,High,Kids,Full,Loose Fit,Striped,Adidas
+223,Western,Formal Suit,Men,Winter,Party,Polyester,Blue,Low,Adults,Full,Regular Fit,Checked,Levi's
+224,Seasonal,Raincoat,Unisex,Monsoon,Travel,Cotton,Black,High,Seniors,Full,Regular Fit,Solid,Adidas
+225,Western,Jeans,Unisex,Monsoon,Casual,Silk,Green,High,Kids,Full,Slim Fit,Checked,H&M
+226,Western,Formal Suit,Men,All,Party,Cotton,Red,High,Teens,Half,Regular Fit,Printed,FabIndia
+227,Traditional,Kurta Pajama,Men,Monsoon,Casual,Nylon,Blue,Low,Adults,Full,Slim Fit,Striped,Local
+228,Traditional,Kurti,Women,Winter,Festive,Polyester,Green,Low,Adults,Sleeveless,Slim Fit,Solid,Levi's
+229,Traditional,Kurti,Women,Monsoon,Festive,Polyester,Red,High,Adults,Half,Loose Fit,Solid,Adidas
+230,Western,Jeans,Unisex,All,Casual,Silk,Blue,Medium,Adults,Sleeveless,Loose Fit,Embroidered,Levi's
+231,Seasonal,Raincoat,Unisex,Monsoon,Travel,Wool,Yellow,Medium,Kids,Sleeveless,Slim Fit,Solid,Adidas
+232,Western,Jeans,Unisex,Summer,Casual,Cotton,Grey,Low,Adults,Sleeveless,Loose Fit,Solid,Nike
+233,Western,Formal Suit,Men,Monsoon,Party,Wool,Red,Low,Adults,Sleeveless,Slim Fit,Striped,FabIndia
+234,Western,Formal Suit,Men,Winter,Party,Silk,Green,Low,Adults,Sleeveless,Loose Fit,Printed,Levi's
+235,Traditional,Kurti,Women,Winter,Festive,Silk,Yellow,Medium,Teens,Sleeveless,Loose Fit,Solid,Local
+236,Western,Shirt,Men,Summer,Office,Nylon,White,Medium,Teens,Sleeveless,Slim Fit,Striped,Levi's
+237,Seasonal,Raincoat,Unisex,Summer,Travel,Silk,White,Low,Adults,Sleeveless,Loose Fit,Checked,Nike
+238,Western,Formal Suit,Men,Winter,Party,Denim,Yellow,High,Teens,Sleeveless,Slim Fit,Printed,H&M
+239,Western,Shirt,Men,Summer,Office,Polyester,Grey,Medium,Adults,Sleeveless,Regular Fit,Solid,Adidas
+240,Western,Formal Suit,Men,All,Party,Wool,Yellow,High,Teens,Full,Regular Fit,Printed,H&M
+241,Seasonal,Jacket,Unisex,All,Travel,Polyester,Yellow,Low,Adults,Sleeveless,Loose Fit,Solid,Levi's
+242,Western,Shirt,Men,Winter,Office,Cotton,Black,High,Adults,Half,Slim Fit,Striped,H&M
+243,Western,T-Shirt,Men,Summer,Casual,Cotton,Red,Low,Seniors,Sleeveless,Regular Fit,Printed,H&M
+244,Western,Shirt,Men,Summer,Office,Linen,Red,High,Kids,Half,Slim Fit,Printed,Levi's
+245,Traditional,Sherwani,Men,Monsoon,Festive,Wool,Blue,Low,Kids,Sleeveless,Regular Fit,Striped,Adidas
+246,Traditional,Salwar Kameez,Women,Monsoon,Office,Cotton,Yellow,Medium,Kids,Half,Slim Fit,Striped,Levi's
+247,Western,Shirt,Men,Monsoon,Office,Polyester,Green,High,Adults,Full,Slim Fit,Checked,FabIndia
+248,Seasonal,Hoodie,Unisex,Monsoon,Casual,Linen,Yellow,High,Kids,Half,Regular Fit,Embroidered,Zara
+249,Seasonal,Raincoat,Unisex,Winter,Travel,Silk,Yellow,Low,Adults,Half,Loose Fit,Printed,FabIndia
+250,Seasonal,Hoodie,Unisex,Summer,Casual,Silk,White,High,Teens,Half,Regular Fit,Solid,Local
+251,Western,Jeans,Unisex,Monsoon,Casual,Cotton,Green,High,Adults,Half,Regular Fit,Solid,Adidas
+252,Western,T-Shirt,Men,Summer,Casual,Polyester,Green,High,Kids,Full,Regular Fit,Solid,Adidas
+253,Western,Shirt,Men,Winter,Office,Linen,Yellow,Low,Teens,Full,Slim Fit,Embroidered,Adidas
+254,Traditional,Salwar Kameez,Women,All,Office,Wool,Yellow,Medium,Adults,Full,Slim Fit,Striped,Levi's
+255,Seasonal,Jacket,Unisex,Monsoon,Travel,Cotton,Green,Medium,Adults,Half,Loose Fit,Checked,H&M
+256,Traditional,Sherwani,Men,Winter,Festive,Denim,Grey,Medium,Adults,Full,Regular Fit,Striped,H&M
+257,Traditional,Lehenga,Women,All,Wedding,Silk,Yellow,High,Teens,Sleeveless,Loose Fit,Checked,Adidas
+258,Traditional,Salwar Kameez,Women,Summer,Office,Silk,Pink,Low,Seniors,Full,Slim Fit,Embroidered,Levi's
+259,Traditional,Saree,Women,All,Festive,Silk,White,High,Adults,Half,Slim Fit,Printed,Zara
+260,Traditional,Kurti,Women,Monsoon,Festive,Polyester,Green,High,Seniors,Sleeveless,Loose Fit,Striped,Local
+261,Traditional,Kurti,Women,Winter,Festive,Wool,White,Low,Kids,Full,Regular Fit,Checked,Local
+262,Western,Jeans,Unisex,All,Casual,Nylon,Black,High,Adults,Full,Slim Fit,Striped,Local
+263,Western,Jeans,Unisex,Winter,Casual,Cotton,White,Medium,Kids,Full,Regular Fit,Printed,H&M
+264,Western,T-Shirt,Men,All,Casual,Wool,Pink,High,Kids,Full,Slim Fit,Striped,H&M
+265,Traditional,Sherwani,Men,Monsoon,Festive,Cotton,Green,High,Seniors,Sleeveless,Regular Fit,Striped,Adidas
+266,Seasonal,Hoodie,Unisex,All,Casual,Silk,Red,High,Seniors,Full,Slim Fit,Embroidered,Levi's
+267,Seasonal,Raincoat,Unisex,Summer,Travel,Cotton,Black,Medium,Seniors,Sleeveless,Regular Fit,Printed,Levi's
+268,Western,Shirt,Men,Monsoon,Office,Nylon,Red,Low,Kids,Sleeveless,Regular Fit,Embroidered,Zara
+269,Western,T-Shirt,Men,Summer,Casual,Silk,Yellow,High,Seniors,Full,Slim Fit,Striped,FabIndia
+270,Traditional,Sherwani,Men,Monsoon,Festive,Silk,Pink,High,Seniors,Sleeveless,Regular Fit,Striped,Nike
+271,Seasonal,Hoodie,Unisex,Monsoon,Casual,Denim,Green,Low,Teens,Half,Loose Fit,Striped,Zara
+272,Western,Formal Suit,Men,Summer,Party,Nylon,White,High,Adults,Full,Slim Fit,Striped,FabIndia
+273,Western,Shirt,Men,Monsoon,Office,Nylon,Red,Low,Kids,Half,Loose Fit,Checked,H&M
+274,Traditional,Sherwani,Men,Summer,Festive,Polyester,Yellow,Low,Teens,Sleeveless,Loose Fit,Solid,Levi's
+275,Seasonal,Raincoat,Unisex,Winter,Travel,Denim,White,Low,Adults,Sleeveless,Slim Fit,Embroidered,FabIndia
+276,Traditional,Sherwani,Men,Monsoon,Festive,Wool,Black,Low,Seniors,Half,Regular Fit,Striped,Levi's
+277,Traditional,Kurta Pajama,Men,Summer,Casual,Nylon,Blue,Medium,Teens,Half,Slim Fit,Solid,H&M
+278,Western,Shirt,Men,Winter,Office,Silk,Blue,Medium,Adults,Sleeveless,Loose Fit,Solid,FabIndia
+279,Western,Jeans,Unisex,Winter,Casual,Wool,Yellow,High,Kids,Sleeveless,Slim Fit,Printed,Local
+280,Traditional,Saree,Women,Monsoon,Festive,Polyester,Green,Low,Adults,Half,Slim Fit,Embroidered,Local
+281,Western,Jeans,Unisex,All,Casual,Cotton,Grey,High,Kids,Sleeveless,Loose Fit,Printed,Nike
+282,Traditional,Kurta Pajama,Men,Monsoon,Casual,Denim,Blue,High,Seniors,Sleeveless,Regular Fit,Striped,H&M
+283,Traditional,Saree,Women,Monsoon,Festive,Cotton,Grey,High,Kids,Sleeveless,Regular Fit,Striped,FabIndia
+284,Traditional,Sherwani,Men,Summer,Festive,Nylon,Red,High,Adults,Half,Loose Fit,Solid,Zara
+285,Western,Jeans,Unisex,Winter,Casual,Silk,Yellow,Low,Adults,Half,Loose Fit,Embroidered,Local
+286,Western,Jeans,Unisex,Summer,Casual,Nylon,Grey,High,Teens,Full,Slim Fit,Solid,FabIndia
+287,Traditional,Sherwani,Men,Monsoon,Festive,Denim,White,High,Seniors,Half,Slim Fit,Checked,H&M
+288,Traditional,Saree,Women,All,Festive,Linen,Red,Low,Teens,Sleeveless,Loose Fit,Solid,Levi's
+289,Traditional,Sherwani,Men,Summer,Festive,Linen,Pink,High,Teens,Half,Loose Fit,Striped,Levi's
+290,Traditional,Kurti,Women,Summer,Festive,Nylon,Pink,Medium,Teens,Half,Regular Fit,Striped,H&M
+291,Traditional,Salwar Kameez,Women,Winter,Office,Polyester,Yellow,High,Seniors,Half,Regular Fit,Striped,Levi's
+292,Seasonal,Raincoat,Unisex,Summer,Travel,Wool,Black,High,Kids,Sleeveless,Slim Fit,Striped,Levi's
+293,Western,Shirt,Men,Summer,Office,Silk,Blue,High,Teens,Sleeveless,Regular Fit,Solid,Nike
+294,Seasonal,Hoodie,Unisex,Summer,Casual,Polyester,Red,High,Seniors,Half,Slim Fit,Embroidered,FabIndia
+295,Western,T-Shirt,Men,All,Casual,Nylon,White,High,Adults,Sleeveless,Loose Fit,Striped,FabIndia
+296,Traditional,Lehenga,Women,All,Wedding,Nylon,Red,Low,Kids,Half,Regular Fit,Printed,Adidas
+297,Western,Formal Suit,Men,All,Party,Denim,Yellow,Low,Seniors,Full,Slim Fit,Embroidered,Zara
+298,Seasonal,Jacket,Unisex,All,Travel,Nylon,Grey,High,Kids,Full,Regular Fit,Striped,Zara
+299,Traditional,Kurta Pajama,Men,Summer,Casual,Linen,Red,Low,Teens,Full,Slim Fit,Printed,Zara
+300,Traditional,Sherwani,Men,All,Festive,Denim,Blue,High,Adults,Full,Regular Fit,Printed,Nike
+301,Traditional,Kurti,Women,Winter,Festive,Polyester,Green,High,Kids,Full,Slim Fit,Checked,Local
+302,Traditional,Kurta Pajama,Men,All,Casual,Cotton,Yellow,High,Seniors,Half,Slim Fit,Checked,Zara
+303,Western,T-Shirt,Men,All,Casual,Silk,White,Medium,Teens,Full,Regular Fit,Striped,Levi's
+304,Western,Shirt,Men,Winter,Office,Nylon,Yellow,Medium,Adults,Half,Loose Fit,Printed,Nike
+305,Seasonal,Raincoat,Unisex,Summer,Travel,Linen,Blue,Medium,Seniors,Full,Slim Fit,Embroidered,Levi's
+306,Western,Shirt,Men,Monsoon,Office,Linen,Yellow,Medium,Teens,Full,Slim Fit,Embroidered,Levi's
+307,Traditional,Kurti,Women,Summer,Festive,Linen,Green,Low,Teens,Full,Regular Fit,Checked,Adidas
+308,Traditional,Saree,Women,Monsoon,Festive,Nylon,Grey,Low,Teens,Half,Loose Fit,Checked,H&M
+309,Western,T-Shirt,Men,Winter,Casual,Linen,Pink,Medium,Teens,Sleeveless,Regular Fit,Solid,Levi's
+310,Traditional,Lehenga,Women,All,Wedding,Linen,Yellow,High,Teens,Sleeveless,Loose Fit,Striped,FabIndia
+311,Western,Shirt,Men,Winter,Office,Wool,White,High,Seniors,Half,Slim Fit,Embroidered,Adidas
+312,Western,Jeans,Unisex,Winter,Casual,Nylon,Grey,Medium,Teens,Half,Loose Fit,Checked,Zara
+313,Traditional,Kurta Pajama,Men,Summer,Casual,Cotton,Black,Medium,Seniors,Full,Slim Fit,Embroidered,FabIndia
+314,Seasonal,Hoodie,Unisex,Monsoon,Casual,Cotton,Green,High,Seniors,Half,Slim Fit,Checked,Zara
+315,Traditional,Sherwani,Men,All,Festive,Nylon,Black,Low,Kids,Full,Slim Fit,Solid,Adidas
+316,Traditional,Saree,Women,Monsoon,Festive,Denim,Black,Medium,Adults,Half,Slim Fit,Striped,Levi's
+317,Traditional,Lehenga,Women,All,Wedding,Polyester,Grey,High,Seniors,Sleeveless,Slim Fit,Checked,H&M
+318,Western,Formal Suit,Men,Monsoon,Party,Nylon,Pink,Low,Adults,Half,Slim Fit,Checked,H&M
+319,Traditional,Lehenga,Women,Monsoon,Wedding,Wool,Red,Low,Adults,Sleeveless,Loose Fit,Solid,Nike
+320,Seasonal,Jacket,Unisex,Summer,Travel,Polyester,Pink,Low,Kids,Sleeveless,Slim Fit,Solid,Zara
+321,Western,T-Shirt,Men,All,Casual,Cotton,Red,Medium,Seniors,Sleeveless,Slim Fit,Embroidered,FabIndia
+322,Traditional,Sherwani,Men,Winter,Festive,Polyester,White,High,Seniors,Half,Loose Fit,Printed,Zara
+323,Seasonal,Jacket,Unisex,Summer,Travel,Nylon,Yellow,Medium,Seniors,Full,Slim Fit,Solid,Zara
+324,Traditional,Salwar Kameez,Women,Winter,Office,Nylon,Pink,Medium,Seniors,Sleeveless,Slim Fit,Embroidered,Adidas
+325,Traditional,Sherwani,Men,Winter,Festive,Silk,Green,Low,Adults,Full,Regular Fit,Printed,Adidas
+326,Western,T-Shirt,Men,Summer,Casual,Denim,White,Low,Seniors,Sleeveless,Loose Fit,Printed,Levi's
+327,Western,Jeans,Unisex,Summer,Casual,Cotton,Pink,Medium,Kids,Half,Slim Fit,Checked,H&M
+328,Western,Shirt,Men,Monsoon,Office,Wool,Yellow,Low,Teens,Sleeveless,Slim Fit,Solid,Nike
+329,Traditional,Kurti,Women,Summer,Festive,Linen,Pink,Low,Teens,Sleeveless,Slim Fit,Checked,Local
+330,Western,T-Shirt,Men,Winter,Casual,Silk,Yellow,Medium,Kids,Sleeveless,Regular Fit,Embroidered,Local
+331,Seasonal,Raincoat,Unisex,Summer,Travel,Silk,Grey,Medium,Teens,Full,Loose Fit,Striped,Adidas
+332,Western,Shirt,Men,Monsoon,Office,Wool,White,Low,Adults,Sleeveless,Regular Fit,Printed,Zara
+333,Seasonal,Raincoat,Unisex,All,Travel,Cotton,Grey,Low,Adults,Full,Loose Fit,Striped,Adidas
+334,Traditional,Saree,Women,All,Festive,Denim,Grey,High,Teens,Half,Slim Fit,Embroidered,Local
+335,Traditional,Kurta Pajama,Men,Monsoon,Casual,Cotton,Blue,Low,Teens,Half,Regular Fit,Striped,H&M
+336,Western,Shirt,Men,Winter,Office,Wool,Red,Low,Seniors,Sleeveless,Regular Fit,Printed,Zara
+337,Western,Formal Suit,Men,All,Party,Polyester,Grey,Low,Kids,Full,Loose Fit,Embroidered,H&M
+338,Traditional,Kurta Pajama,Men,Winter,Casual,Linen,Grey,Low,Kids,Sleeveless,Loose Fit,Printed,Adidas
+339,Western,Formal Suit,Men,Monsoon,Party,Denim,Green,Medium,Kids,Half,Loose Fit,Embroidered,Adidas
+340,Western,Shirt,Men,Summer,Office,Nylon,Pink,Medium,Teens,Full,Slim Fit,Striped,H&M
+341,Traditional,Salwar Kameez,Women,Winter,Office,Wool,White,Low,Adults,Half,Loose Fit,Solid,FabIndia
+342,Western,Shirt,Men,Winter,Office,Cotton,Yellow,High,Adults,Half,Slim Fit,Solid,Zara
+343,Seasonal,Jacket,Unisex,Summer,Travel,Linen,Red,High,Seniors,Sleeveless,Regular Fit,Printed,FabIndia
+344,Seasonal,Jacket,Unisex,Winter,Travel,Wool,Grey,Low,Kids,Full,Slim Fit,Embroidered,H&M
+345,Traditional,Salwar Kameez,Women,All,Office,Nylon,White,Low,Seniors,Full,Slim Fit,Solid,FabIndia
+346,Western,Shirt,Men,Summer,Office,Silk,Black,High,Teens,Full,Loose Fit,Checked,Local
+347,Western,T-Shirt,Men,Summer,Casual,Cotton,White,High,Seniors,Full,Slim Fit,Embroidered,H&M
+348,Traditional,Saree,Women,Monsoon,Festive,Silk,Red,Medium,Seniors,Half,Slim Fit,Printed,Levi's
+349,Traditional,Salwar Kameez,Women,All,Office,Nylon,Pink,Medium,Adults,Full,Regular Fit,Printed,Adidas
+350,Western,Jeans,Unisex,Summer,Casual,Cotton,Blue,Low,Teens,Half,Loose Fit,Printed,FabIndia
+351,Western,Shirt,Men,Winter,Office,Nylon,White,Low,Kids,Sleeveless,Slim Fit,Printed,Adidas
+352,Seasonal,Hoodie,Unisex,Monsoon,Casual,Linen,White,Medium,Adults,Full,Slim Fit,Striped,Nike
+353,Traditional,Sherwani,Men,All,Festive,Linen,Blue,High,Teens,Sleeveless,Regular Fit,Embroidered,H&M
+354,Western,Formal Suit,Men,Summer,Party,Denim,Red,Low,Kids,Sleeveless,Regular Fit,Printed,FabIndia
+355,Traditional,Kurta Pajama,Men,Monsoon,Casual,Silk,White,Medium,Adults,Sleeveless,Slim Fit,Solid,Local
+356,Western,Jeans,Unisex,Monsoon,Casual,Denim,Red,High,Adults,Sleeveless,Slim Fit,Striped,Adidas
+357,Traditional,Kurti,Women,Summer,Festive,Silk,White,Low,Teens,Full,Slim Fit,Striped,Levi's
+358,Seasonal,Jacket,Unisex,Monsoon,Travel,Cotton,Yellow,Low,Teens,Sleeveless,Regular Fit,Solid,Zara
+359,Seasonal,Jacket,Unisex,Winter,Travel,Wool,Black,High,Adults,Sleeveless,Regular Fit,Printed,FabIndia
+360,Western,Shirt,Men,All,Office,Silk,Green,High,Kids,Half,Regular Fit,Striped,FabIndia
+361,Seasonal,Jacket,Unisex,All,Travel,Cotton,Green,Medium,Kids,Sleeveless,Regular Fit,Checked,Nike
+362,Western,T-Shirt,Men,Summer,Casual,Polyester,Grey,Medium,Kids,Half,Regular Fit,Striped,Levi's
+363,Western,Formal Suit,Men,Winter,Party,Cotton,Blue,Low,Adults,Full,Loose Fit,Embroidered,Zara
+364,Traditional,Salwar Kameez,Women,Summer,Office,Linen,Grey,Medium,Adults,Sleeveless,Loose Fit,Embroidered,FabIndia
+365,Traditional,Kurta Pajama,Men,Summer,Casual,Polyester,Red,Medium,Adults,Full,Regular Fit,Checked,Nike
+366,Traditional,Lehenga,Women,All,Wedding,Silk,Yellow,Low,Adults,Full,Loose Fit,Embroidered,FabIndia
+367,Western,T-Shirt,Men,Summer,Casual,Wool,Pink,Medium,Teens,Half,Slim Fit,Striped,H&M
+368,Traditional,Kurti,Women,Monsoon,Festive,Denim,Blue,Medium,Adults,Sleeveless,Slim Fit,Checked,FabIndia
+369,Traditional,Sherwani,Men,Monsoon,Festive,Silk,Black,High,Adults,Full,Loose Fit,Checked,Adidas
+370,Seasonal,Hoodie,Unisex,Summer,Casual,Wool,Yellow,Low,Kids,Full,Regular Fit,Solid,FabIndia
+371,Traditional,Kurti,Women,Winter,Festive,Nylon,Grey,Medium,Kids,Half,Loose Fit,Solid,Adidas
+372,Traditional,Salwar Kameez,Women,Summer,Office,Silk,Red,Low,Seniors,Half,Loose Fit,Striped,Nike
+373,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Black,High,Adults,Half,Regular Fit,Solid,H&M
+374,Traditional,Lehenga,Women,Monsoon,Wedding,Silk,Green,Medium,Kids,Half,Regular Fit,Embroidered,Zara
+375,Traditional,Saree,Women,All,Festive,Polyester,White,Low,Adults,Full,Regular Fit,Solid,H&M
+376,Traditional,Saree,Women,Monsoon,Festive,Polyester,Black,High,Teens,Full,Slim Fit,Checked,Nike
+377,Traditional,Salwar Kameez,Women,Monsoon,Office,Denim,Pink,Low,Adults,Full,Slim Fit,Solid,FabIndia
+378,Traditional,Sherwani,Men,Monsoon,Festive,Wool,Blue,Medium,Teens,Sleeveless,Regular Fit,Printed,H&M
+379,Seasonal,Raincoat,Unisex,Monsoon,Travel,Nylon,Grey,Low,Teens,Full,Regular Fit,Printed,H&M
+380,Traditional,Lehenga,Women,Summer,Wedding,Nylon,White,Low,Teens,Sleeveless,Slim Fit,Printed,Local
+381,Seasonal,Hoodie,Unisex,Summer,Casual,Denim,White,Medium,Seniors,Half,Slim Fit,Solid,Zara
+382,Seasonal,Raincoat,Unisex,All,Travel,Silk,Yellow,High,Teens,Full,Regular Fit,Printed,Adidas
+383,Seasonal,Raincoat,Unisex,Winter,Travel,Polyester,Pink,Medium,Kids,Sleeveless,Loose Fit,Embroidered,H&M
+384,Western,Jeans,Unisex,Summer,Casual,Linen,Yellow,Low,Seniors,Half,Loose Fit,Checked,Adidas
+385,Traditional,Lehenga,Women,Winter,Wedding,Polyester,Yellow,Medium,Kids,Full,Regular Fit,Striped,H&M
+386,Seasonal,Raincoat,Unisex,Summer,Travel,Linen,Black,Low,Kids,Sleeveless,Loose Fit,Solid,Adidas
+387,Western,Formal Suit,Men,Winter,Party,Polyester,Pink,Low,Seniors,Sleeveless,Slim Fit,Striped,Levi's
+388,Traditional,Salwar Kameez,Women,Monsoon,Office,Linen,Black,Medium,Seniors,Sleeveless,Regular Fit,Checked,Nike
+389,Western,Shirt,Men,Summer,Office,Denim,Blue,Medium,Adults,Full,Slim Fit,Solid,Zara
+390,Seasonal,Raincoat,Unisex,Winter,Travel,Denim,Red,Medium,Teens,Half,Slim Fit,Embroidered,Zara
+391,Traditional,Kurti,Women,Winter,Festive,Silk,Pink,High,Teens,Half,Loose Fit,Solid,Local
+392,Western,Shirt,Men,Monsoon,Office,Silk,Yellow,Low,Adults,Half,Slim Fit,Embroidered,Adidas
+393,Western,Jeans,Unisex,Winter,Casual,Cotton,Blue,Medium,Teens,Full,Slim Fit,Printed,Levi's
+394,Traditional,Kurta Pajama,Men,All,Casual,Linen,Red,High,Kids,Full,Slim Fit,Embroidered,Levi's
+395,Western,Formal Suit,Men,Monsoon,Party,Silk,Blue,Low,Teens,Sleeveless,Slim Fit,Striped,H&M
+396,Seasonal,Hoodie,Unisex,Summer,Casual,Cotton,Red,Low,Seniors,Half,Slim Fit,Embroidered,Adidas
+397,Traditional,Salwar Kameez,Women,Winter,Office,Polyester,Green,Medium,Kids,Sleeveless,Regular Fit,Printed,Levi's
+398,Seasonal,Raincoat,Unisex,Summer,Travel,Nylon,Black,High,Adults,Half,Loose Fit,Checked,Nike
+399,Western,Jeans,Unisex,Winter,Casual,Polyester,Black,Low,Kids,Half,Regular Fit,Embroidered,Local
+400,Traditional,Kurti,Women,Winter,Festive,Cotton,Grey,Low,Seniors,Half,Regular Fit,Embroidered,Local
+401,Western,Shirt,Men,Monsoon,Office,Nylon,Pink,High,Kids,Half,Slim Fit,Striped,Nike
+402,Western,Shirt,Men,Monsoon,Office,Cotton,Blue,High,Kids,Sleeveless,Loose Fit,Embroidered,Nike
+403,Western,Formal Suit,Men,Summer,Party,Denim,Red,Low,Adults,Sleeveless,Slim Fit,Solid,Zara
+404,Traditional,Kurta Pajama,Men,Summer,Casual,Polyester,Green,Medium,Teens,Half,Regular Fit,Embroidered,Levi's
+405,Western,Formal Suit,Men,Winter,Party,Polyester,Yellow,High,Adults,Sleeveless,Loose Fit,Solid,FabIndia
+406,Western,T-Shirt,Men,Summer,Casual,Cotton,Red,High,Adults,Sleeveless,Regular Fit,Solid,Zara
+407,Western,T-Shirt,Men,Monsoon,Casual,Silk,Yellow,Medium,Seniors,Half,Slim Fit,Striped,Zara
+408,Seasonal,Hoodie,Unisex,Monsoon,Casual,Silk,Pink,Low,Seniors,Half,Slim Fit,Striped,Zara
+409,Western,Jeans,Unisex,Winter,Casual,Linen,Green,High,Teens,Full,Loose Fit,Embroidered,Zara
+410,Traditional,Saree,Women,Winter,Festive,Denim,Green,Medium,Seniors,Sleeveless,Slim Fit,Embroidered,Levi's
+411,Seasonal,Hoodie,Unisex,Monsoon,Casual,Silk,Blue,High,Kids,Full,Slim Fit,Printed,FabIndia
+412,Seasonal,Raincoat,Unisex,Winter,Travel,Polyester,Pink,High,Adults,Sleeveless,Slim Fit,Checked,Nike
+413,Traditional,Kurti,Women,Monsoon,Festive,Silk,Blue,High,Adults,Half,Loose Fit,Embroidered,FabIndia
+414,Western,Jeans,Unisex,Summer,Casual,Silk,Blue,High,Kids,Sleeveless,Regular Fit,Solid,Local
+415,Western,Formal Suit,Men,Summer,Party,Nylon,Green,High,Kids,Full,Regular Fit,Embroidered,Zara
+416,Traditional,Lehenga,Women,All,Wedding,Linen,Grey,High,Kids,Full,Slim Fit,Printed,H&M
+417,Western,Formal Suit,Men,Monsoon,Party,Cotton,Pink,Medium,Adults,Sleeveless,Loose Fit,Embroidered,Local
+418,Traditional,Kurta Pajama,Men,Summer,Casual,Cotton,Grey,Medium,Seniors,Sleeveless,Regular Fit,Printed,Nike
+419,Seasonal,Raincoat,Unisex,Monsoon,Travel,Nylon,White,High,Seniors,Sleeveless,Slim Fit,Solid,FabIndia
+420,Seasonal,Hoodie,Unisex,Summer,Casual,Wool,Red,High,Seniors,Half,Slim Fit,Checked,Nike
+421,Western,Formal Suit,Men,Summer,Party,Nylon,White,Low,Kids,Sleeveless,Loose Fit,Solid,Nike
+422,Western,T-Shirt,Men,All,Casual,Wool,Blue,High,Adults,Sleeveless,Loose Fit,Printed,FabIndia
+423,Traditional,Saree,Women,Winter,Festive,Nylon,Pink,Low,Teens,Full,Loose Fit,Striped,Local
+424,Western,Formal Suit,Men,Winter,Party,Denim,White,High,Seniors,Half,Regular Fit,Embroidered,Local
+425,Seasonal,Jacket,Unisex,Monsoon,Travel,Polyester,Black,Low,Teens,Full,Slim Fit,Checked,H&M
+426,Traditional,Salwar Kameez,Women,Winter,Office,Silk,Yellow,High,Kids,Sleeveless,Regular Fit,Checked,Nike
+427,Traditional,Saree,Women,Winter,Festive,Wool,Blue,High,Adults,Half,Slim Fit,Solid,Local
+428,Western,T-Shirt,Men,All,Casual,Polyester,Black,Medium,Seniors,Sleeveless,Regular Fit,Solid,Local
+429,Seasonal,Hoodie,Unisex,Winter,Casual,Wool,Yellow,Medium,Kids,Full,Loose Fit,Checked,H&M
+430,Traditional,Kurti,Women,Summer,Festive,Silk,Blue,Low,Seniors,Half,Slim Fit,Solid,Zara
+431,Traditional,Kurta Pajama,Men,All,Casual,Polyester,Grey,High,Seniors,Half,Regular Fit,Solid,Zara
+432,Western,Shirt,Men,Winter,Office,Nylon,Black,High,Kids,Half,Regular Fit,Solid,FabIndia
+433,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,White,Low,Kids,Half,Regular Fit,Printed,Zara
+434,Traditional,Salwar Kameez,Women,Monsoon,Office,Silk,Pink,Low,Kids,Half,Regular Fit,Solid,Zara
+435,Traditional,Kurti,Women,All,Festive,Linen,White,Medium,Adults,Full,Loose Fit,Solid,Zara
+436,Traditional,Sherwani,Men,Monsoon,Festive,Denim,Yellow,High,Teens,Half,Regular Fit,Solid,Nike
+437,Traditional,Salwar Kameez,Women,Winter,Office,Linen,White,Low,Adults,Half,Slim Fit,Embroidered,Levi's
+438,Western,Formal Suit,Men,All,Party,Linen,Blue,Medium,Adults,Half,Loose Fit,Checked,Zara
+439,Traditional,Sherwani,Men,All,Festive,Cotton,Pink,High,Adults,Sleeveless,Regular Fit,Printed,Levi's
+440,Western,Formal Suit,Men,Summer,Party,Polyester,Yellow,Low,Seniors,Full,Loose Fit,Solid,Zara
+441,Western,T-Shirt,Men,Monsoon,Casual,Denim,Grey,High,Teens,Sleeveless,Slim Fit,Solid,Adidas
+442,Seasonal,Jacket,Unisex,Winter,Travel,Polyester,Yellow,Medium,Adults,Full,Loose Fit,Solid,Adidas
+443,Western,Jeans,Unisex,All,Casual,Nylon,Grey,Medium,Teens,Full,Regular Fit,Embroidered,Adidas
+444,Traditional,Saree,Women,All,Festive,Silk,Grey,Medium,Teens,Sleeveless,Regular Fit,Striped,Local
+445,Traditional,Salwar Kameez,Women,Winter,Office,Cotton,Green,High,Adults,Half,Regular Fit,Striped,Adidas
+446,Seasonal,Jacket,Unisex,Summer,Travel,Linen,Blue,Medium,Seniors,Full,Regular Fit,Solid,Zara
+447,Western,T-Shirt,Men,Winter,Casual,Linen,White,Medium,Seniors,Sleeveless,Loose Fit,Solid,Local
+448,Seasonal,Hoodie,Unisex,Summer,Casual,Silk,Grey,Medium,Kids,Sleeveless,Slim Fit,Striped,Zara
+449,Western,T-Shirt,Men,All,Casual,Nylon,Grey,Medium,Kids,Full,Regular Fit,Printed,Adidas
+450,Seasonal,Hoodie,Unisex,Summer,Casual,Denim,Green,High,Adults,Sleeveless,Regular Fit,Embroidered,H&M
+451,Western,Jeans,Unisex,Monsoon,Casual,Polyester,Black,Low,Kids,Half,Regular Fit,Solid,Zara
+452,Traditional,Kurti,Women,All,Festive,Nylon,Green,Medium,Adults,Sleeveless,Regular Fit,Solid,FabIndia
+453,Western,Formal Suit,Men,All,Party,Linen,Black,Medium,Seniors,Half,Loose Fit,Embroidered,Levi's
+454,Traditional,Saree,Women,Winter,Festive,Cotton,Black,Medium,Kids,Half,Loose Fit,Striped,Zara
+455,Seasonal,Raincoat,Unisex,Winter,Travel,Silk,Black,Low,Kids,Sleeveless,Slim Fit,Embroidered,FabIndia
+456,Traditional,Lehenga,Women,Monsoon,Wedding,Linen,Red,High,Seniors,Sleeveless,Regular Fit,Striped,Nike
+457,Western,T-Shirt,Men,Winter,Casual,Linen,Black,Low,Seniors,Half,Slim Fit,Solid,Adidas
+458,Traditional,Lehenga,Women,Winter,Wedding,Denim,Pink,Low,Adults,Sleeveless,Slim Fit,Solid,Adidas
+459,Traditional,Salwar Kameez,Women,All,Office,Silk,Red,Low,Adults,Sleeveless,Slim Fit,Embroidered,FabIndia
+460,Western,Formal Suit,Men,All,Party,Cotton,Yellow,Medium,Seniors,Full,Regular Fit,Checked,Adidas
+461,Traditional,Kurti,Women,All,Festive,Denim,Red,Medium,Teens,Sleeveless,Slim Fit,Printed,H&M
+462,Seasonal,Raincoat,Unisex,All,Travel,Cotton,Blue,High,Seniors,Sleeveless,Regular Fit,Printed,H&M
+463,Western,T-Shirt,Men,Monsoon,Casual,Linen,Blue,Low,Adults,Half,Slim Fit,Checked,Nike
+464,Western,T-Shirt,Men,Monsoon,Casual,Cotton,White,Medium,Teens,Full,Slim Fit,Striped,H&M
+465,Seasonal,Jacket,Unisex,Winter,Travel,Denim,Yellow,High,Adults,Half,Loose Fit,Solid,FabIndia
+466,Western,Formal Suit,Men,Monsoon,Party,Denim,White,Low,Seniors,Half,Slim Fit,Solid,H&M
+467,Traditional,Sherwani,Men,Summer,Festive,Cotton,Blue,High,Kids,Sleeveless,Loose Fit,Checked,Nike
+468,Seasonal,Hoodie,Unisex,Monsoon,Casual,Denim,Yellow,Low,Adults,Half,Loose Fit,Striped,Adidas
+469,Traditional,Lehenga,Women,Summer,Wedding,Wool,Green,Medium,Kids,Half,Slim Fit,Striped,Nike
+470,Traditional,Saree,Women,All,Festive,Wool,Red,High,Kids,Sleeveless,Slim Fit,Checked,Adidas
+471,Western,Shirt,Men,Winter,Office,Nylon,Grey,Medium,Kids,Full,Loose Fit,Checked,FabIndia
+472,Western,Shirt,Men,Summer,Office,Polyester,Pink,Low,Teens,Half,Slim Fit,Solid,Adidas
+473,Traditional,Sherwani,Men,Winter,Festive,Silk,Pink,High,Seniors,Full,Slim Fit,Checked,Nike
+474,Western,T-Shirt,Men,Winter,Casual,Denim,Grey,Low,Kids,Sleeveless,Loose Fit,Solid,Levi's
+475,Western,Shirt,Men,Summer,Office,Wool,Green,Medium,Teens,Sleeveless,Slim Fit,Striped,H&M
+476,Western,Shirt,Men,Monsoon,Office,Wool,White,Low,Kids,Full,Loose Fit,Embroidered,FabIndia
+477,Traditional,Kurta Pajama,Men,All,Casual,Polyester,Pink,Medium,Teens,Half,Slim Fit,Striped,FabIndia
+478,Western,Jeans,Unisex,Winter,Casual,Polyester,Yellow,High,Seniors,Full,Loose Fit,Solid,Adidas
+479,Seasonal,Raincoat,Unisex,Monsoon,Travel,Polyester,Black,High,Kids,Full,Slim Fit,Checked,Adidas
+480,Western,Jeans,Unisex,Winter,Casual,Wool,White,High,Teens,Half,Slim Fit,Embroidered,Zara
+481,Western,Shirt,Men,Winter,Office,Silk,White,Low,Kids,Sleeveless,Loose Fit,Printed,Local
+482,Seasonal,Raincoat,Unisex,Winter,Travel,Nylon,Red,Medium,Teens,Half,Slim Fit,Checked,Zara
+483,Western,T-Shirt,Men,Winter,Casual,Wool,Red,Low,Kids,Full,Regular Fit,Embroidered,Levi's
+484,Traditional,Kurta Pajama,Men,Winter,Casual,Silk,White,Medium,Teens,Half,Loose Fit,Checked,H&M
+485,Traditional,Kurti,Women,Summer,Festive,Polyester,Pink,Low,Seniors,Sleeveless,Loose Fit,Printed,FabIndia
+486,Western,Jeans,Unisex,Monsoon,Casual,Nylon,Blue,Medium,Seniors,Full,Regular Fit,Striped,Nike
+487,Traditional,Kurta Pajama,Men,Monsoon,Casual,Silk,Pink,Medium,Teens,Half,Loose Fit,Embroidered,Nike
+488,Traditional,Lehenga,Women,All,Wedding,Polyester,White,Medium,Teens,Sleeveless,Regular Fit,Checked,FabIndia
+489,Western,Formal Suit,Men,Monsoon,Party,Polyester,Red,High,Teens,Half,Regular Fit,Striped,Nike
+490,Traditional,Kurti,Women,Summer,Festive,Cotton,Red,Medium,Teens,Half,Regular Fit,Printed,Levi's
+491,Traditional,Salwar Kameez,Women,Summer,Office,Nylon,Pink,Low,Kids,Sleeveless,Loose Fit,Printed,Zara
+492,Traditional,Saree,Women,Summer,Festive,Cotton,White,High,Adults,Half,Regular Fit,Embroidered,Nike
+493,Seasonal,Jacket,Unisex,Monsoon,Travel,Nylon,Green,Medium,Kids,Sleeveless,Regular Fit,Printed,Adidas
+494,Traditional,Kurti,Women,Winter,Festive,Wool,Pink,High,Adults,Sleeveless,Loose Fit,Printed,Local
+495,Western,T-Shirt,Men,Summer,Casual,Cotton,Red,Medium,Teens,Sleeveless,Slim Fit,Solid,H&M
+496,Traditional,Sherwani,Men,Summer,Festive,Silk,White,Medium,Kids,Full,Slim Fit,Printed,Levi's
+497,Western,Jeans,Unisex,Winter,Casual,Nylon,Red,Medium,Teens,Half,Regular Fit,Checked,Adidas
+498,Western,Jeans,Unisex,Monsoon,Casual,Silk,Blue,Medium,Kids,Half,Loose Fit,Embroidered,Adidas
+499,Traditional,Salwar Kameez,Women,Monsoon,Office,Denim,Green,High,Teens,Half,Regular Fit,Embroidered,Nike
+500,Traditional,Saree,Women,Winter,Festive,Linen,Blue,Medium,Seniors,Full,Regular Fit,Striped,Nike
+501,Western,Jeans,Unisex,Summer,Casual,Polyester,Pink,High,Adults,Sleeveless,Loose Fit,Embroidered,H&M
+502,Seasonal,Jacket,Unisex,Winter,Travel,Wool,Red,High,Adults,Sleeveless,Slim Fit,Embroidered,H&M
+503,Traditional,Salwar Kameez,Women,Winter,Office,Cotton,Yellow,Medium,Seniors,Sleeveless,Regular Fit,Printed,Local
+504,Western,Jeans,Unisex,Summer,Casual,Nylon,Grey,Medium,Seniors,Full,Loose Fit,Solid,Local
+505,Seasonal,Jacket,Unisex,All,Travel,Linen,Green,Medium,Kids,Half,Slim Fit,Embroidered,Levi's
+506,Seasonal,Jacket,Unisex,Winter,Travel,Silk,Pink,High,Kids,Half,Loose Fit,Solid,Nike
+507,Traditional,Salwar Kameez,Women,Monsoon,Office,Polyester,Black,High,Teens,Full,Loose Fit,Embroidered,Zara
+508,Seasonal,Raincoat,Unisex,Winter,Travel,Denim,White,High,Teens,Full,Regular Fit,Printed,Zara
+509,Western,Formal Suit,Men,Monsoon,Party,Denim,Red,Low,Teens,Sleeveless,Regular Fit,Embroidered,Local
+510,Western,T-Shirt,Men,Summer,Casual,Denim,Yellow,Medium,Adults,Sleeveless,Regular Fit,Solid,Zara
+511,Western,Jeans,Unisex,Winter,Casual,Linen,Pink,Low,Teens,Half,Slim Fit,Solid,FabIndia
+512,Traditional,Salwar Kameez,Women,All,Office,Denim,Red,High,Seniors,Half,Regular Fit,Solid,H&M
+513,Traditional,Salwar Kameez,Women,All,Office,Linen,Black,High,Adults,Half,Loose Fit,Embroidered,Nike
+514,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Black,Medium,Kids,Half,Loose Fit,Striped,FabIndia
+515,Western,Formal Suit,Men,Summer,Party,Linen,Green,High,Seniors,Full,Slim Fit,Printed,H&M
+516,Traditional,Kurta Pajama,Men,All,Casual,Polyester,Red,High,Kids,Full,Regular Fit,Checked,Levi's
+517,Traditional,Kurta Pajama,Men,All,Casual,Cotton,Grey,Medium,Seniors,Half,Regular Fit,Embroidered,Local
+518,Traditional,Sherwani,Men,Monsoon,Festive,Nylon,Pink,High,Seniors,Half,Regular Fit,Printed,Adidas
+519,Western,Jeans,Unisex,Winter,Casual,Linen,Red,High,Seniors,Half,Regular Fit,Checked,Local
+520,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,Red,Low,Adults,Half,Loose Fit,Solid,Zara
+521,Traditional,Kurti,Women,All,Festive,Linen,Black,Medium,Adults,Half,Regular Fit,Striped,Adidas
+522,Traditional,Kurti,Women,All,Festive,Nylon,Yellow,Medium,Seniors,Sleeveless,Slim Fit,Striped,Nike
+523,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Red,Medium,Seniors,Full,Slim Fit,Checked,Adidas
+524,Western,Jeans,Unisex,Winter,Casual,Polyester,Blue,Low,Seniors,Half,Loose Fit,Striped,Levi's
+525,Western,Shirt,Men,Winter,Office,Nylon,Yellow,Low,Adults,Half,Regular Fit,Solid,Adidas
+526,Seasonal,Hoodie,Unisex,Monsoon,Casual,Linen,Black,Low,Adults,Half,Loose Fit,Printed,Levi's
+527,Western,Formal Suit,Men,Winter,Party,Wool,Green,Medium,Adults,Half,Regular Fit,Striped,Zara
+528,Western,Jeans,Unisex,Winter,Casual,Wool,Blue,Low,Kids,Half,Slim Fit,Solid,Nike
+529,Traditional,Saree,Women,All,Festive,Polyester,Pink,Medium,Teens,Half,Slim Fit,Printed,Local
+530,Western,T-Shirt,Men,Monsoon,Casual,Denim,White,Medium,Kids,Half,Regular Fit,Printed,FabIndia
+531,Western,Formal Suit,Men,Summer,Party,Wool,Blue,Low,Kids,Sleeveless,Loose Fit,Embroidered,H&M
+532,Western,Jeans,Unisex,Winter,Casual,Cotton,White,Medium,Seniors,Sleeveless,Regular Fit,Printed,Zara
+533,Seasonal,Jacket,Unisex,Summer,Travel,Wool,Yellow,Medium,Teens,Sleeveless,Slim Fit,Checked,FabIndia
+534,Traditional,Salwar Kameez,Women,Monsoon,Office,Silk,Yellow,High,Kids,Full,Loose Fit,Printed,Adidas
+535,Traditional,Kurti,Women,Winter,Festive,Polyester,Blue,Medium,Teens,Full,Regular Fit,Embroidered,Local
+536,Western,Formal Suit,Men,All,Party,Polyester,Black,Low,Seniors,Sleeveless,Regular Fit,Striped,Levi's
+537,Western,Jeans,Unisex,All,Casual,Wool,Yellow,Low,Seniors,Half,Regular Fit,Embroidered,Adidas
+538,Western,Formal Suit,Men,Winter,Party,Cotton,Pink,High,Teens,Sleeveless,Slim Fit,Checked,FabIndia
+539,Traditional,Salwar Kameez,Women,Summer,Office,Denim,White,High,Teens,Half,Slim Fit,Printed,Nike
+540,Seasonal,Jacket,Unisex,Monsoon,Travel,Denim,Pink,High,Seniors,Half,Slim Fit,Embroidered,Nike
+541,Western,Shirt,Men,Monsoon,Office,Polyester,Black,Low,Kids,Sleeveless,Loose Fit,Striped,Levi's
+542,Seasonal,Raincoat,Unisex,Winter,Travel,Nylon,Green,Low,Kids,Sleeveless,Slim Fit,Printed,Adidas
+543,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,White,High,Kids,Sleeveless,Slim Fit,Solid,Nike
+544,Traditional,Kurta Pajama,Men,Winter,Casual,Linen,White,High,Kids,Full,Slim Fit,Solid,Zara
+545,Western,T-Shirt,Men,Winter,Casual,Nylon,Green,High,Adults,Full,Loose Fit,Solid,Nike
+546,Seasonal,Raincoat,Unisex,Summer,Travel,Linen,Pink,High,Kids,Full,Slim Fit,Embroidered,Adidas
+547,Western,Shirt,Men,Monsoon,Office,Wool,Black,Low,Teens,Half,Loose Fit,Solid,FabIndia
+548,Traditional,Salwar Kameez,Women,Winter,Office,Nylon,Grey,Low,Adults,Sleeveless,Regular Fit,Striped,Zara
+549,Seasonal,Jacket,Unisex,Winter,Travel,Cotton,Yellow,High,Kids,Half,Slim Fit,Printed,H&M
+550,Traditional,Sherwani,Men,Summer,Festive,Denim,Red,High,Seniors,Sleeveless,Loose Fit,Checked,FabIndia
+551,Western,Jeans,Unisex,Summer,Casual,Cotton,White,Low,Kids,Half,Loose Fit,Striped,Levi's
+552,Traditional,Sherwani,Men,Summer,Festive,Polyester,Yellow,Medium,Adults,Full,Slim Fit,Solid,Nike
+553,Traditional,Sherwani,Men,Monsoon,Festive,Linen,Red,Low,Kids,Half,Slim Fit,Embroidered,Levi's
+554,Western,Jeans,Unisex,Monsoon,Casual,Denim,Green,Low,Seniors,Half,Loose Fit,Striped,FabIndia
+555,Seasonal,Hoodie,Unisex,All,Casual,Wool,Green,Medium,Adults,Full,Loose Fit,Embroidered,Adidas
+556,Seasonal,Raincoat,Unisex,Summer,Travel,Wool,Blue,High,Teens,Sleeveless,Loose Fit,Checked,H&M
+557,Traditional,Kurta Pajama,Men,Summer,Casual,Wool,Yellow,Low,Teens,Full,Regular Fit,Solid,Adidas
+558,Traditional,Sherwani,Men,Summer,Festive,Silk,Blue,Medium,Seniors,Half,Regular Fit,Printed,Nike
+559,Western,Formal Suit,Men,All,Party,Denim,Green,High,Kids,Full,Loose Fit,Embroidered,Local
+560,Seasonal,Jacket,Unisex,Winter,Travel,Nylon,Grey,High,Kids,Sleeveless,Slim Fit,Checked,Zara
+561,Western,Formal Suit,Men,Monsoon,Party,Cotton,White,Medium,Seniors,Full,Slim Fit,Checked,FabIndia
+562,Seasonal,Jacket,Unisex,All,Travel,Linen,Black,Medium,Seniors,Half,Slim Fit,Solid,Levi's
+563,Seasonal,Raincoat,Unisex,Summer,Travel,Denim,White,High,Kids,Full,Slim Fit,Embroidered,Adidas
+564,Traditional,Salwar Kameez,Women,All,Office,Silk,Blue,Medium,Adults,Full,Slim Fit,Solid,Local
+565,Traditional,Kurti,Women,Winter,Festive,Wool,Pink,Low,Kids,Sleeveless,Slim Fit,Printed,Levi's
+566,Western,Jeans,Unisex,Winter,Casual,Linen,Blue,High,Adults,Full,Loose Fit,Checked,Local
+567,Western,Shirt,Men,All,Office,Nylon,Black,Medium,Kids,Half,Regular Fit,Striped,Nike
+568,Traditional,Lehenga,Women,Winter,Wedding,Nylon,Yellow,Low,Teens,Half,Regular Fit,Embroidered,Levi's
+569,Seasonal,Jacket,Unisex,Winter,Travel,Polyester,Green,Medium,Kids,Full,Slim Fit,Striped,Nike
+570,Traditional,Kurti,Women,Summer,Festive,Denim,Grey,Low,Kids,Full,Loose Fit,Solid,Nike
+571,Western,Jeans,Unisex,Summer,Casual,Denim,Black,Low,Teens,Half,Regular Fit,Checked,Adidas
+572,Traditional,Sherwani,Men,Summer,Festive,Cotton,Blue,Low,Adults,Half,Regular Fit,Solid,Adidas
+573,Western,Shirt,Men,Monsoon,Office,Cotton,Yellow,Low,Teens,Half,Regular Fit,Checked,Local
+574,Traditional,Sherwani,Men,All,Festive,Silk,Pink,High,Adults,Sleeveless,Slim Fit,Striped,Zara
+575,Seasonal,Jacket,Unisex,Winter,Travel,Silk,Red,Low,Seniors,Half,Slim Fit,Striped,Local
+576,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,White,Medium,Kids,Half,Regular Fit,Checked,Nike
+577,Traditional,Salwar Kameez,Women,Monsoon,Office,Wool,Red,High,Adults,Sleeveless,Slim Fit,Embroidered,Levi's
+578,Traditional,Sherwani,Men,Monsoon,Festive,Denim,Pink,Medium,Adults,Full,Slim Fit,Checked,FabIndia
+579,Traditional,Sherwani,Men,All,Festive,Wool,Black,Low,Adults,Full,Slim Fit,Checked,Local
+580,Traditional,Kurti,Women,Winter,Festive,Polyester,Blue,Medium,Seniors,Sleeveless,Loose Fit,Embroidered,Nike
+581,Traditional,Saree,Women,Summer,Festive,Linen,Blue,High,Adults,Full,Slim Fit,Checked,FabIndia
+582,Western,Jeans,Unisex,Monsoon,Casual,Denim,Blue,Medium,Adults,Sleeveless,Loose Fit,Solid,Local
+583,Seasonal,Jacket,Unisex,Summer,Travel,Wool,Yellow,Medium,Seniors,Sleeveless,Regular Fit,Printed,Local
+584,Traditional,Kurti,Women,Winter,Festive,Linen,Grey,Low,Teens,Sleeveless,Regular Fit,Printed,Zara
+585,Western,Formal Suit,Men,All,Party,Silk,White,Medium,Teens,Half,Loose Fit,Striped,Nike
+586,Western,T-Shirt,Men,All,Casual,Cotton,White,Low,Seniors,Half,Loose Fit,Embroidered,FabIndia
+587,Seasonal,Raincoat,Unisex,All,Travel,Denim,Blue,High,Adults,Full,Slim Fit,Striped,Levi's
+588,Western,T-Shirt,Men,Winter,Casual,Denim,Yellow,Low,Seniors,Full,Regular Fit,Striped,FabIndia
+589,Traditional,Lehenga,Women,Summer,Wedding,Polyester,Red,Low,Teens,Sleeveless,Slim Fit,Printed,Adidas
+590,Traditional,Sherwani,Men,Monsoon,Festive,Linen,White,High,Seniors,Half,Loose Fit,Solid,Adidas
+591,Western,T-Shirt,Men,Summer,Casual,Nylon,Yellow,Low,Seniors,Half,Regular Fit,Solid,FabIndia
+592,Traditional,Kurta Pajama,Men,All,Casual,Linen,White,Medium,Kids,Full,Loose Fit,Printed,H&M
+593,Western,Shirt,Men,Winter,Office,Denim,White,Medium,Kids,Half,Loose Fit,Printed,Zara
+594,Traditional,Kurti,Women,Monsoon,Festive,Silk,White,Low,Adults,Half,Loose Fit,Printed,Zara
+595,Seasonal,Raincoat,Unisex,Summer,Travel,Nylon,Grey,Low,Seniors,Sleeveless,Regular Fit,Striped,H&M
+596,Western,Formal Suit,Men,Winter,Party,Linen,Red,Low,Seniors,Half,Slim Fit,Checked,Adidas
+597,Seasonal,Hoodie,Unisex,Summer,Casual,Cotton,Pink,Medium,Adults,Sleeveless,Slim Fit,Solid,Zara
+598,Western,Shirt,Men,All,Office,Cotton,Green,Medium,Kids,Sleeveless,Loose Fit,Embroidered,Levi's
+599,Traditional,Sherwani,Men,Winter,Festive,Nylon,Grey,Low,Seniors,Sleeveless,Slim Fit,Solid,Levi's
+600,Traditional,Saree,Women,All,Festive,Wool,Black,Low,Seniors,Sleeveless,Regular Fit,Checked,Levi's
+601,Traditional,Kurti,Women,Summer,Festive,Nylon,Pink,Low,Seniors,Full,Slim Fit,Striped,Adidas
+602,Western,Shirt,Men,All,Office,Linen,Pink,High,Adults,Full,Regular Fit,Printed,Local
+603,Traditional,Lehenga,Women,Winter,Wedding,Wool,Grey,Low,Adults,Full,Slim Fit,Solid,FabIndia
+604,Western,Jeans,Unisex,Monsoon,Casual,Polyester,Grey,High,Teens,Full,Loose Fit,Striped,FabIndia
+605,Traditional,Sherwani,Men,Monsoon,Festive,Silk,Blue,Low,Teens,Sleeveless,Loose Fit,Embroidered,Adidas
+606,Seasonal,Jacket,Unisex,All,Travel,Denim,Black,Low,Adults,Sleeveless,Loose Fit,Solid,Nike
+607,Western,Formal Suit,Men,Monsoon,Party,Polyester,Yellow,Low,Kids,Half,Loose Fit,Printed,Levi's
+608,Western,Shirt,Men,Summer,Office,Silk,Blue,Medium,Adults,Full,Loose Fit,Solid,Nike
+609,Traditional,Kurti,Women,All,Festive,Silk,Pink,Low,Teens,Half,Slim Fit,Embroidered,Local
+610,Western,Jeans,Unisex,Winter,Casual,Cotton,Grey,High,Teens,Half,Loose Fit,Printed,Nike
+611,Western,Shirt,Men,Monsoon,Office,Cotton,Yellow,High,Adults,Half,Loose Fit,Checked,H&M
+612,Western,Formal Suit,Men,All,Party,Cotton,Red,High,Adults,Half,Loose Fit,Checked,Adidas
+613,Traditional,Sherwani,Men,All,Festive,Wool,Yellow,Low,Kids,Sleeveless,Loose Fit,Checked,Nike
+614,Traditional,Sherwani,Men,Summer,Festive,Nylon,Red,High,Kids,Sleeveless,Slim Fit,Solid,Adidas
+615,Traditional,Sherwani,Men,Monsoon,Festive,Linen,Green,High,Teens,Sleeveless,Slim Fit,Checked,Levi's
+616,Traditional,Sherwani,Men,Monsoon,Festive,Nylon,White,High,Kids,Full,Slim Fit,Striped,Local
+617,Seasonal,Raincoat,Unisex,All,Travel,Silk,Pink,High,Seniors,Half,Regular Fit,Embroidered,Local
+618,Seasonal,Hoodie,Unisex,Monsoon,Casual,Nylon,Pink,Medium,Seniors,Half,Regular Fit,Printed,Nike
+619,Western,Formal Suit,Men,Monsoon,Party,Linen,Red,Low,Seniors,Half,Loose Fit,Striped,Local
+620,Traditional,Salwar Kameez,Women,All,Office,Cotton,Red,Medium,Teens,Full,Regular Fit,Embroidered,FabIndia
+621,Seasonal,Jacket,Unisex,Summer,Travel,Denim,Grey,Medium,Teens,Half,Slim Fit,Striped,Local
+622,Seasonal,Jacket,Unisex,Monsoon,Travel,Silk,Black,Low,Adults,Half,Slim Fit,Printed,H&M
+623,Traditional,Kurta Pajama,Men,All,Casual,Wool,Pink,Medium,Teens,Full,Loose Fit,Striped,Local
+624,Traditional,Lehenga,Women,Monsoon,Wedding,Linen,Black,Low,Kids,Sleeveless,Slim Fit,Striped,Zara
+625,Traditional,Lehenga,Women,Monsoon,Wedding,Silk,Yellow,Low,Teens,Full,Loose Fit,Printed,Levi's
+626,Western,T-Shirt,Men,Winter,Casual,Wool,Grey,Medium,Adults,Full,Slim Fit,Solid,Local
+627,Western,Formal Suit,Men,Monsoon,Party,Linen,Pink,Low,Teens,Half,Regular Fit,Solid,FabIndia
+628,Traditional,Kurti,Women,All,Festive,Denim,Grey,Medium,Adults,Half,Loose Fit,Solid,Zara
+629,Western,Jeans,Unisex,Summer,Casual,Linen,Red,High,Teens,Half,Slim Fit,Embroidered,Local
+630,Western,T-Shirt,Men,All,Casual,Nylon,Blue,Medium,Kids,Full,Loose Fit,Printed,Local
+631,Western,Shirt,Men,All,Office,Linen,Blue,Medium,Kids,Sleeveless,Loose Fit,Embroidered,Nike
+632,Western,Formal Suit,Men,Summer,Party,Denim,Grey,Medium,Kids,Half,Regular Fit,Embroidered,FabIndia
+633,Seasonal,Jacket,Unisex,Monsoon,Travel,Denim,Green,Medium,Teens,Sleeveless,Slim Fit,Solid,H&M
+634,Western,Formal Suit,Men,Winter,Party,Denim,Red,High,Adults,Full,Slim Fit,Embroidered,FabIndia
+635,Western,Shirt,Men,All,Office,Silk,Pink,High,Kids,Sleeveless,Slim Fit,Checked,H&M
+636,Traditional,Kurti,Women,Winter,Festive,Silk,Red,High,Teens,Full,Slim Fit,Checked,FabIndia
+637,Western,Formal Suit,Men,Winter,Party,Denim,Yellow,Low,Kids,Half,Loose Fit,Solid,Adidas
+638,Traditional,Sherwani,Men,All,Festive,Wool,Grey,High,Teens,Full,Loose Fit,Striped,Levi's
+639,Traditional,Sherwani,Men,Summer,Festive,Wool,White,High,Seniors,Half,Slim Fit,Striped,H&M
+640,Western,Jeans,Unisex,Monsoon,Casual,Cotton,Pink,Medium,Adults,Sleeveless,Regular Fit,Solid,Adidas
+641,Seasonal,Raincoat,Unisex,Winter,Travel,Wool,Red,Medium,Kids,Half,Slim Fit,Checked,Levi's
+642,Western,Formal Suit,Men,Winter,Party,Cotton,Blue,Medium,Seniors,Sleeveless,Regular Fit,Printed,Local
+643,Seasonal,Jacket,Unisex,Summer,Travel,Nylon,Yellow,High,Adults,Half,Slim Fit,Checked,Adidas
+644,Western,Formal Suit,Men,Monsoon,Party,Wool,Grey,Low,Kids,Full,Loose Fit,Solid,Local
+645,Western,T-Shirt,Men,Summer,Casual,Linen,Grey,High,Teens,Sleeveless,Slim Fit,Embroidered,FabIndia
+646,Seasonal,Hoodie,Unisex,All,Casual,Polyester,Green,Low,Adults,Full,Slim Fit,Embroidered,Adidas
+647,Western,Formal Suit,Men,Winter,Party,Cotton,Yellow,High,Adults,Sleeveless,Slim Fit,Striped,H&M
+648,Western,Shirt,Men,Monsoon,Office,Cotton,Black,Medium,Adults,Full,Regular Fit,Striped,Nike
+649,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Pink,High,Adults,Half,Loose Fit,Striped,Zara
+650,Traditional,Kurti,Women,Winter,Festive,Cotton,Yellow,High,Kids,Full,Regular Fit,Striped,Nike
+651,Western,Shirt,Men,All,Office,Linen,Grey,Low,Kids,Half,Slim Fit,Checked,FabIndia
+652,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Black,Medium,Teens,Full,Slim Fit,Embroidered,Local
+653,Traditional,Saree,Women,Winter,Festive,Wool,Green,Medium,Seniors,Full,Slim Fit,Solid,Adidas
+654,Western,Formal Suit,Men,Monsoon,Party,Linen,Grey,Medium,Adults,Half,Loose Fit,Striped,FabIndia
+655,Traditional,Lehenga,Women,All,Wedding,Polyester,Yellow,Medium,Adults,Full,Loose Fit,Solid,Local
+656,Traditional,Saree,Women,Monsoon,Festive,Linen,White,High,Teens,Half,Loose Fit,Checked,Zara
+657,Western,Shirt,Men,All,Office,Denim,Black,Low,Adults,Sleeveless,Regular Fit,Checked,Zara
+658,Western,Formal Suit,Men,Monsoon,Party,Wool,Green,Medium,Teens,Half,Slim Fit,Solid,Local
+659,Traditional,Kurta Pajama,Men,Monsoon,Casual,Nylon,Yellow,High,Kids,Half,Slim Fit,Checked,Adidas
+660,Western,Jeans,Unisex,All,Casual,Cotton,Yellow,Medium,Adults,Sleeveless,Regular Fit,Solid,Local
+661,Western,T-Shirt,Men,Summer,Casual,Denim,Grey,Medium,Kids,Half,Slim Fit,Embroidered,H&M
+662,Western,Shirt,Men,Monsoon,Office,Nylon,Grey,Low,Seniors,Half,Loose Fit,Striped,FabIndia
+663,Traditional,Lehenga,Women,Winter,Wedding,Nylon,Green,Low,Adults,Half,Regular Fit,Embroidered,Local
+664,Seasonal,Jacket,Unisex,Summer,Travel,Nylon,Black,High,Seniors,Full,Loose Fit,Solid,Local
+665,Western,Shirt,Men,Monsoon,Office,Polyester,Grey,High,Kids,Half,Slim Fit,Striped,Levi's
+666,Seasonal,Hoodie,Unisex,Summer,Casual,Denim,Grey,High,Kids,Sleeveless,Slim Fit,Embroidered,FabIndia
+667,Traditional,Sherwani,Men,Summer,Festive,Cotton,White,High,Kids,Full,Slim Fit,Striped,Adidas
+668,Western,Jeans,Unisex,All,Casual,Wool,Grey,Medium,Kids,Half,Slim Fit,Solid,Nike
+669,Seasonal,Hoodie,Unisex,Monsoon,Casual,Cotton,Blue,Low,Adults,Sleeveless,Loose Fit,Striped,Nike
+670,Traditional,Sherwani,Men,All,Festive,Silk,Grey,Low,Seniors,Sleeveless,Slim Fit,Printed,FabIndia
+671,Seasonal,Jacket,Unisex,All,Travel,Cotton,White,High,Kids,Full,Regular Fit,Printed,Levi's
+672,Traditional,Kurti,Women,Winter,Festive,Linen,Yellow,High,Kids,Full,Slim Fit,Checked,H&M
+673,Western,Formal Suit,Men,Monsoon,Party,Silk,Green,Medium,Kids,Sleeveless,Regular Fit,Checked,Zara
+674,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Green,Low,Seniors,Sleeveless,Slim Fit,Embroidered,Local
+675,Traditional,Sherwani,Men,Monsoon,Festive,Denim,Grey,Medium,Kids,Full,Loose Fit,Striped,FabIndia
+676,Seasonal,Jacket,Unisex,Summer,Travel,Cotton,Grey,Low,Kids,Sleeveless,Slim Fit,Solid,FabIndia
+677,Traditional,Lehenga,Women,All,Wedding,Nylon,Yellow,High,Teens,Sleeveless,Loose Fit,Embroidered,Adidas
+678,Western,Jeans,Unisex,Summer,Casual,Cotton,White,High,Seniors,Sleeveless,Loose Fit,Printed,H&M
+679,Western,T-Shirt,Men,Winter,Casual,Polyester,Pink,Low,Teens,Full,Loose Fit,Solid,Nike
+680,Traditional,Kurti,Women,All,Festive,Silk,Pink,Low,Seniors,Full,Regular Fit,Striped,Local
+681,Seasonal,Hoodie,Unisex,Summer,Casual,Cotton,Pink,Medium,Seniors,Full,Regular Fit,Printed,H&M
+682,Seasonal,Jacket,Unisex,Winter,Travel,Silk,Pink,Medium,Teens,Half,Regular Fit,Embroidered,Adidas
+683,Western,Formal Suit,Men,Summer,Party,Polyester,White,Low,Adults,Sleeveless,Regular Fit,Checked,FabIndia
+684,Western,T-Shirt,Men,Winter,Casual,Wool,Yellow,Medium,Teens,Half,Regular Fit,Embroidered,FabIndia
+685,Western,Formal Suit,Men,All,Party,Silk,Black,Low,Adults,Sleeveless,Slim Fit,Striped,H&M
+686,Western,Jeans,Unisex,All,Casual,Cotton,White,Medium,Kids,Full,Loose Fit,Striped,Nike
+687,Seasonal,Raincoat,Unisex,All,Travel,Nylon,White,High,Adults,Sleeveless,Regular Fit,Striped,Adidas
+688,Seasonal,Jacket,Unisex,All,Travel,Denim,White,Low,Adults,Sleeveless,Loose Fit,Solid,Adidas
+689,Western,T-Shirt,Men,Winter,Casual,Linen,Blue,Medium,Kids,Half,Slim Fit,Checked,Zara
+690,Seasonal,Jacket,Unisex,Winter,Travel,Wool,Grey,Medium,Seniors,Full,Loose Fit,Striped,Local
+691,Traditional,Salwar Kameez,Women,All,Office,Denim,Pink,Medium,Kids,Full,Slim Fit,Solid,Zara
+692,Western,Shirt,Men,Summer,Office,Denim,Green,Medium,Seniors,Half,Slim Fit,Embroidered,Local
+693,Seasonal,Hoodie,Unisex,Winter,Casual,Wool,Black,High,Seniors,Half,Loose Fit,Checked,Levi's
+694,Traditional,Kurti,Women,Summer,Festive,Nylon,White,High,Kids,Sleeveless,Regular Fit,Striped,Levi's
+695,Seasonal,Jacket,Unisex,Summer,Travel,Wool,Pink,High,Adults,Half,Loose Fit,Printed,Levi's
+696,Traditional,Salwar Kameez,Women,Winter,Office,Nylon,Black,High,Teens,Sleeveless,Loose Fit,Solid,Local
+697,Western,T-Shirt,Men,All,Casual,Polyester,Blue,Low,Seniors,Sleeveless,Slim Fit,Solid,Zara
+698,Western,Shirt,Men,Summer,Office,Polyester,Black,Medium,Kids,Full,Regular Fit,Checked,Adidas
+699,Traditional,Salwar Kameez,Women,All,Office,Silk,Pink,Medium,Seniors,Sleeveless,Regular Fit,Solid,FabIndia
+700,Western,Jeans,Unisex,Monsoon,Casual,Denim,White,High,Teens,Half,Regular Fit,Printed,Adidas
+701,Western,Jeans,Unisex,Summer,Casual,Wool,Yellow,Low,Kids,Half,Loose Fit,Solid,FabIndia
+702,Traditional,Salwar Kameez,Women,Winter,Office,Wool,Green,High,Kids,Half,Regular Fit,Printed,Local
+703,Western,Formal Suit,Men,Monsoon,Party,Silk,Green,Low,Kids,Sleeveless,Regular Fit,Printed,Levi's
+704,Traditional,Salwar Kameez,Women,Summer,Office,Silk,Red,Medium,Seniors,Sleeveless,Slim Fit,Checked,Zara
+705,Western,Formal Suit,Men,Monsoon,Party,Polyester,Black,High,Kids,Sleeveless,Loose Fit,Striped,Local
+706,Traditional,Lehenga,Women,Monsoon,Wedding,Cotton,Pink,High,Teens,Half,Slim Fit,Printed,Nike
+707,Western,Formal Suit,Men,Winter,Party,Denim,Red,Medium,Adults,Full,Slim Fit,Printed,H&M
+708,Traditional,Sherwani,Men,Summer,Festive,Cotton,Grey,Medium,Kids,Sleeveless,Slim Fit,Checked,Adidas
+709,Seasonal,Raincoat,Unisex,Winter,Travel,Silk,White,Medium,Kids,Half,Slim Fit,Embroidered,Local
+710,Traditional,Kurta Pajama,Men,Monsoon,Casual,Denim,Green,High,Seniors,Half,Slim Fit,Solid,H&M
+711,Seasonal,Raincoat,Unisex,All,Travel,Polyester,Yellow,Low,Adults,Half,Regular Fit,Checked,Levi's
+712,Western,Jeans,Unisex,Summer,Casual,Wool,Pink,Medium,Teens,Sleeveless,Loose Fit,Printed,Zara
+713,Western,Shirt,Men,Winter,Office,Linen,Red,High,Kids,Sleeveless,Slim Fit,Striped,Local
+714,Seasonal,Hoodie,Unisex,Monsoon,Casual,Denim,Green,Low,Kids,Sleeveless,Slim Fit,Printed,H&M
+715,Western,Formal Suit,Men,Summer,Party,Denim,Yellow,Medium,Adults,Sleeveless,Regular Fit,Printed,H&M
+716,Western,Formal Suit,Men,Winter,Party,Polyester,Yellow,Medium,Adults,Sleeveless,Loose Fit,Printed,Nike
+717,Traditional,Kurti,Women,Winter,Festive,Nylon,Black,Low,Kids,Half,Loose Fit,Solid,Levi's
+718,Western,Jeans,Unisex,Monsoon,Casual,Cotton,Black,High,Seniors,Sleeveless,Slim Fit,Printed,Nike
+719,Traditional,Lehenga,Women,Summer,Wedding,Polyester,Grey,Low,Kids,Full,Regular Fit,Printed,H&M
+720,Western,Formal Suit,Men,Monsoon,Party,Wool,Yellow,Medium,Kids,Sleeveless,Loose Fit,Striped,Levi's
+721,Western,Shirt,Men,Monsoon,Office,Nylon,White,Low,Kids,Half,Loose Fit,Striped,Local
+722,Traditional,Salwar Kameez,Women,Monsoon,Office,Denim,Red,Medium,Teens,Full,Regular Fit,Striped,H&M
+723,Western,Formal Suit,Men,Summer,Party,Wool,Yellow,High,Kids,Sleeveless,Slim Fit,Embroidered,Nike
+724,Western,Formal Suit,Men,Winter,Party,Nylon,Grey,Low,Adults,Full,Slim Fit,Printed,Levi's
+725,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Red,High,Seniors,Full,Loose Fit,Embroidered,Adidas
+726,Western,Formal Suit,Men,Monsoon,Party,Nylon,Pink,Medium,Teens,Full,Regular Fit,Embroidered,FabIndia
+727,Seasonal,Raincoat,Unisex,Monsoon,Travel,Cotton,Blue,Medium,Adults,Sleeveless,Loose Fit,Solid,Local
+728,Traditional,Sherwani,Men,Winter,Festive,Polyester,Yellow,Medium,Adults,Half,Slim Fit,Striped,FabIndia
+729,Western,Shirt,Men,Monsoon,Office,Nylon,Yellow,Low,Seniors,Full,Slim Fit,Printed,Zara
+730,Seasonal,Raincoat,Unisex,Monsoon,Travel,Silk,White,Low,Adults,Sleeveless,Loose Fit,Embroidered,Zara
+731,Seasonal,Hoodie,Unisex,Monsoon,Casual,Silk,White,Medium,Seniors,Half,Loose Fit,Striped,Nike
+732,Seasonal,Hoodie,Unisex,Winter,Casual,Silk,Yellow,High,Seniors,Half,Slim Fit,Checked,Zara
+733,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,Red,Medium,Adults,Half,Slim Fit,Striped,Zara
+734,Seasonal,Raincoat,Unisex,All,Travel,Nylon,Blue,High,Teens,Full,Regular Fit,Striped,Levi's
+735,Traditional,Salwar Kameez,Women,Summer,Office,Linen,Grey,Low,Adults,Sleeveless,Loose Fit,Solid,FabIndia
+736,Traditional,Kurta Pajama,Men,Monsoon,Casual,Linen,Green,Low,Kids,Half,Regular Fit,Checked,Zara
+737,Traditional,Saree,Women,Summer,Festive,Cotton,Black,Low,Teens,Full,Regular Fit,Embroidered,H&M
+738,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Black,Low,Kids,Full,Regular Fit,Striped,Nike
+739,Traditional,Lehenga,Women,Winter,Wedding,Denim,White,Low,Adults,Half,Regular Fit,Embroidered,FabIndia
+740,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Green,Low,Kids,Full,Regular Fit,Printed,FabIndia
+741,Traditional,Kurti,Women,Winter,Festive,Cotton,Blue,Low,Seniors,Full,Slim Fit,Striped,Levi's
+742,Traditional,Salwar Kameez,Women,Summer,Office,Linen,Yellow,Low,Teens,Sleeveless,Loose Fit,Checked,FabIndia
+743,Western,Formal Suit,Men,Summer,Party,Denim,Green,High,Teens,Sleeveless,Loose Fit,Solid,Zara
+744,Traditional,Kurta Pajama,Men,Winter,Casual,Cotton,Yellow,Medium,Seniors,Half,Slim Fit,Embroidered,Adidas
+745,Traditional,Sherwani,Men,Monsoon,Festive,Linen,Black,Low,Teens,Half,Regular Fit,Embroidered,Levi's
+746,Western,T-Shirt,Men,Winter,Casual,Nylon,Red,Low,Adults,Sleeveless,Slim Fit,Embroidered,FabIndia
+747,Traditional,Sherwani,Men,Summer,Festive,Denim,Yellow,High,Adults,Half,Loose Fit,Striped,Zara
+748,Western,Shirt,Men,Winter,Office,Polyester,Red,Low,Kids,Half,Regular Fit,Solid,H&M
+749,Traditional,Saree,Women,Monsoon,Festive,Nylon,Black,Low,Kids,Sleeveless,Slim Fit,Solid,Levi's
+750,Traditional,Kurta Pajama,Men,Winter,Casual,Silk,Black,High,Teens,Half,Loose Fit,Embroidered,Local
+751,Western,Formal Suit,Men,Winter,Party,Cotton,Red,Medium,Teens,Sleeveless,Slim Fit,Checked,H&M
+752,Western,Jeans,Unisex,All,Casual,Wool,Red,High,Kids,Half,Slim Fit,Embroidered,Levi's
+753,Western,Shirt,Men,Monsoon,Office,Linen,Pink,High,Teens,Half,Loose Fit,Printed,Adidas
+754,Traditional,Lehenga,Women,Summer,Wedding,Nylon,Green,Medium,Teens,Sleeveless,Loose Fit,Embroidered,Nike
+755,Western,Jeans,Unisex,Monsoon,Casual,Linen,Black,Medium,Kids,Half,Slim Fit,Striped,Nike
+756,Western,Shirt,Men,Monsoon,Office,Denim,Blue,Medium,Seniors,Full,Slim Fit,Striped,Levi's
+757,Western,Jeans,Unisex,Monsoon,Casual,Polyester,Pink,Medium,Seniors,Sleeveless,Loose Fit,Checked,H&M
+758,Western,Formal Suit,Men,Monsoon,Party,Nylon,White,Medium,Adults,Full,Loose Fit,Checked,Levi's
+759,Western,Formal Suit,Men,All,Party,Silk,Green,Medium,Kids,Sleeveless,Slim Fit,Checked,Local
+760,Traditional,Salwar Kameez,Women,Winter,Office,Denim,Black,High,Teens,Full,Slim Fit,Solid,Levi's
+761,Seasonal,Raincoat,Unisex,All,Travel,Nylon,Grey,Medium,Teens,Sleeveless,Loose Fit,Striped,Zara
+762,Traditional,Lehenga,Women,Winter,Wedding,Cotton,Blue,High,Teens,Sleeveless,Regular Fit,Solid,H&M
+763,Western,Shirt,Men,Winter,Office,Wool,White,Medium,Adults,Sleeveless,Slim Fit,Checked,H&M
+764,Seasonal,Hoodie,Unisex,Summer,Casual,Wool,Red,Medium,Kids,Sleeveless,Slim Fit,Checked,FabIndia
+765,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,Red,Low,Teens,Sleeveless,Slim Fit,Printed,Nike
+766,Western,T-Shirt,Men,Summer,Casual,Cotton,Blue,Medium,Seniors,Full,Loose Fit,Checked,Adidas
+767,Western,Shirt,Men,Monsoon,Office,Linen,Red,Low,Teens,Sleeveless,Regular Fit,Striped,Nike
+768,Seasonal,Hoodie,Unisex,All,Casual,Cotton,Black,High,Seniors,Half,Regular Fit,Printed,FabIndia
+769,Western,T-Shirt,Men,Winter,Casual,Nylon,Blue,Low,Kids,Full,Slim Fit,Checked,H&M
+770,Western,T-Shirt,Men,All,Casual,Linen,Grey,Low,Seniors,Sleeveless,Regular Fit,Printed,FabIndia
+771,Western,T-Shirt,Men,Monsoon,Casual,Cotton,Black,Low,Kids,Full,Slim Fit,Checked,Local
+772,Traditional,Lehenga,Women,Monsoon,Wedding,Wool,Pink,Low,Seniors,Half,Loose Fit,Checked,Levi's
+773,Traditional,Sherwani,Men,Monsoon,Festive,Denim,Black,High,Kids,Sleeveless,Loose Fit,Striped,FabIndia
+774,Traditional,Lehenga,Women,Winter,Wedding,Nylon,White,High,Kids,Full,Loose Fit,Solid,Levi's
+775,Western,Shirt,Men,Summer,Office,Linen,Red,Medium,Seniors,Sleeveless,Regular Fit,Printed,H&M
+776,Western,Formal Suit,Men,Summer,Party,Linen,Grey,Low,Seniors,Half,Slim Fit,Solid,FabIndia
+777,Western,Shirt,Men,Winter,Office,Nylon,Red,Low,Kids,Half,Slim Fit,Striped,Levi's
+778,Traditional,Salwar Kameez,Women,Winter,Office,Wool,Blue,High,Teens,Full,Loose Fit,Checked,Local
+779,Traditional,Lehenga,Women,Monsoon,Wedding,Nylon,Green,High,Kids,Full,Slim Fit,Checked,Adidas
+780,Traditional,Saree,Women,All,Festive,Linen,Blue,Medium,Kids,Half,Loose Fit,Solid,Nike
+781,Traditional,Kurta Pajama,Men,Monsoon,Casual,Wool,White,Medium,Kids,Full,Loose Fit,Checked,FabIndia
+782,Western,T-Shirt,Men,Monsoon,Casual,Silk,White,Medium,Adults,Full,Slim Fit,Striped,Levi's
+783,Traditional,Sherwani,Men,Monsoon,Festive,Linen,Grey,Low,Teens,Half,Loose Fit,Checked,Levi's
+784,Seasonal,Hoodie,Unisex,Summer,Casual,Denim,Black,High,Teens,Half,Regular Fit,Solid,Adidas
+785,Western,Formal Suit,Men,Winter,Party,Linen,White,Medium,Adults,Sleeveless,Slim Fit,Checked,Zara
+786,Western,Shirt,Men,Summer,Office,Cotton,Red,Low,Kids,Full,Slim Fit,Solid,H&M
+787,Western,T-Shirt,Men,Monsoon,Casual,Denim,Pink,Medium,Adults,Full,Regular Fit,Printed,Adidas
+788,Traditional,Salwar Kameez,Women,Summer,Office,Polyester,Blue,Low,Kids,Sleeveless,Loose Fit,Embroidered,Zara
+789,Western,Formal Suit,Men,Monsoon,Party,Denim,Green,High,Seniors,Full,Slim Fit,Printed,Zara
+790,Seasonal,Hoodie,Unisex,Monsoon,Casual,Linen,Black,Low,Seniors,Half,Regular Fit,Checked,Nike
+791,Traditional,Lehenga,Women,Monsoon,Wedding,Wool,Green,Low,Teens,Sleeveless,Loose Fit,Solid,H&M
+792,Traditional,Saree,Women,Monsoon,Festive,Polyester,Green,High,Kids,Full,Slim Fit,Striped,FabIndia
+793,Traditional,Salwar Kameez,Women,Summer,Office,Wool,Pink,Low,Teens,Full,Loose Fit,Solid,H&M
+794,Traditional,Salwar Kameez,Women,Summer,Office,Polyester,White,Low,Kids,Half,Slim Fit,Embroidered,FabIndia
+795,Western,T-Shirt,Men,Monsoon,Casual,Cotton,Red,High,Seniors,Sleeveless,Regular Fit,Striped,Levi's
+796,Seasonal,Jacket,Unisex,Summer,Travel,Denim,Pink,High,Adults,Half,Regular Fit,Solid,Zara
+797,Traditional,Sherwani,Men,All,Festive,Nylon,Green,High,Seniors,Half,Regular Fit,Printed,Adidas
+798,Traditional,Lehenga,Women,Winter,Wedding,Silk,Yellow,Low,Seniors,Half,Slim Fit,Checked,Adidas
+799,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Yellow,Low,Seniors,Full,Regular Fit,Striped,Levi's
+800,Seasonal,Jacket,Unisex,Winter,Travel,Cotton,Green,High,Kids,Sleeveless,Loose Fit,Printed,Levi's
+801,Western,Formal Suit,Men,Monsoon,Party,Linen,Red,Medium,Adults,Half,Slim Fit,Checked,Nike
+802,Traditional,Sherwani,Men,All,Festive,Silk,Pink,Medium,Kids,Half,Slim Fit,Checked,H&M
+803,Traditional,Saree,Women,Monsoon,Festive,Wool,White,Medium,Seniors,Full,Regular Fit,Printed,H&M
+804,Traditional,Saree,Women,All,Festive,Denim,Blue,High,Seniors,Full,Regular Fit,Striped,Nike
+805,Western,Shirt,Men,Winter,Office,Wool,White,High,Seniors,Sleeveless,Regular Fit,Striped,FabIndia
+806,Traditional,Salwar Kameez,Women,Monsoon,Office,Linen,Black,Low,Seniors,Full,Regular Fit,Embroidered,Zara
+807,Seasonal,Hoodie,Unisex,Summer,Casual,Polyester,Red,Medium,Teens,Sleeveless,Slim Fit,Solid,Nike
+808,Traditional,Sherwani,Men,Winter,Festive,Nylon,Pink,Medium,Kids,Sleeveless,Slim Fit,Solid,Local
+809,Traditional,Salwar Kameez,Women,Winter,Office,Nylon,Pink,Low,Seniors,Full,Regular Fit,Embroidered,H&M
+810,Traditional,Kurti,Women,Monsoon,Festive,Cotton,Yellow,High,Adults,Full,Regular Fit,Printed,Levi's
+811,Traditional,Salwar Kameez,Women,All,Office,Nylon,Black,High,Kids,Half,Slim Fit,Embroidered,Adidas
+812,Seasonal,Raincoat,Unisex,Winter,Travel,Cotton,Green,Medium,Adults,Full,Slim Fit,Embroidered,Nike
+813,Traditional,Kurti,Women,All,Festive,Silk,Grey,Medium,Kids,Sleeveless,Regular Fit,Printed,Adidas
+814,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,White,Medium,Seniors,Half,Loose Fit,Striped,Levi's
+815,Traditional,Kurta Pajama,Men,Summer,Casual,Wool,Black,Low,Teens,Half,Loose Fit,Checked,FabIndia
+816,Seasonal,Raincoat,Unisex,All,Travel,Linen,Yellow,Medium,Teens,Half,Regular Fit,Striped,Local
+817,Western,Shirt,Men,All,Office,Cotton,Black,High,Teens,Half,Regular Fit,Solid,H&M
+818,Western,T-Shirt,Men,Summer,Casual,Nylon,Black,High,Kids,Half,Loose Fit,Solid,Local
+819,Traditional,Kurti,Women,Monsoon,Festive,Wool,Pink,High,Seniors,Half,Loose Fit,Printed,Zara
+820,Seasonal,Hoodie,Unisex,Summer,Casual,Nylon,Blue,Low,Kids,Sleeveless,Slim Fit,Striped,Local
+821,Western,Shirt,Men,All,Office,Linen,Green,Medium,Seniors,Half,Loose Fit,Embroidered,Levi's
+822,Traditional,Kurti,Women,Summer,Festive,Silk,Pink,Low,Adults,Sleeveless,Regular Fit,Printed,Local
+823,Traditional,Lehenga,Women,Winter,Wedding,Linen,Black,High,Seniors,Sleeveless,Loose Fit,Striped,Nike
+824,Seasonal,Hoodie,Unisex,Winter,Casual,Silk,Yellow,Medium,Adults,Full,Slim Fit,Embroidered,Local
+825,Traditional,Saree,Women,All,Festive,Polyester,Grey,High,Seniors,Full,Loose Fit,Striped,FabIndia
+826,Traditional,Kurti,Women,All,Festive,Cotton,Grey,Medium,Adults,Full,Slim Fit,Solid,H&M
+827,Seasonal,Jacket,Unisex,All,Travel,Denim,Black,Low,Teens,Full,Loose Fit,Printed,Local
+828,Traditional,Sherwani,Men,Monsoon,Festive,Polyester,Grey,Low,Adults,Half,Slim Fit,Checked,Levi's
+829,Traditional,Kurti,Women,Summer,Festive,Denim,Pink,Medium,Seniors,Sleeveless,Slim Fit,Printed,H&M
+830,Western,Shirt,Men,Monsoon,Office,Cotton,Grey,Medium,Seniors,Half,Regular Fit,Striped,Levi's
+831,Western,Shirt,Men,Summer,Office,Wool,Black,Low,Seniors,Sleeveless,Regular Fit,Solid,Nike
+832,Western,Jeans,Unisex,Monsoon,Casual,Silk,Yellow,Medium,Kids,Half,Regular Fit,Striped,Levi's
+833,Traditional,Lehenga,Women,Winter,Wedding,Cotton,White,High,Adults,Half,Regular Fit,Printed,Levi's
+834,Western,T-Shirt,Men,All,Casual,Polyester,White,High,Teens,Sleeveless,Regular Fit,Solid,Nike
+835,Western,Jeans,Unisex,Summer,Casual,Polyester,Blue,Medium,Adults,Full,Slim Fit,Striped,H&M
+836,Western,Jeans,Unisex,Summer,Casual,Linen,White,Low,Adults,Half,Slim Fit,Solid,H&M
+837,Traditional,Kurta Pajama,Men,Summer,Casual,Linen,Grey,High,Teens,Half,Regular Fit,Solid,Adidas
+838,Seasonal,Hoodie,Unisex,Monsoon,Casual,Wool,Yellow,High,Seniors,Half,Loose Fit,Embroidered,H&M
+839,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Green,Medium,Adults,Sleeveless,Slim Fit,Checked,Zara
+840,Seasonal,Raincoat,Unisex,Winter,Travel,Denim,Grey,Medium,Kids,Half,Regular Fit,Embroidered,FabIndia
+841,Traditional,Salwar Kameez,Women,Monsoon,Office,Nylon,Grey,High,Kids,Full,Loose Fit,Embroidered,Zara
+842,Seasonal,Raincoat,Unisex,Winter,Travel,Wool,Grey,Medium,Adults,Full,Regular Fit,Solid,Zara
+843,Western,Formal Suit,Men,Winter,Party,Wool,Green,High,Teens,Half,Slim Fit,Printed,FabIndia
+844,Traditional,Lehenga,Women,Monsoon,Wedding,Cotton,Blue,High,Teens,Half,Loose Fit,Solid,Adidas
+845,Traditional,Saree,Women,All,Festive,Wool,White,Medium,Seniors,Full,Loose Fit,Solid,Levi's
+846,Seasonal,Raincoat,Unisex,Monsoon,Travel,Wool,Black,High,Kids,Full,Loose Fit,Printed,Local
+847,Traditional,Salwar Kameez,Women,Monsoon,Office,Linen,Red,Medium,Teens,Sleeveless,Regular Fit,Striped,H&M
+848,Seasonal,Hoodie,Unisex,All,Casual,Wool,Blue,Medium,Seniors,Full,Regular Fit,Solid,Local
+849,Traditional,Sherwani,Men,Monsoon,Festive,Denim,White,Medium,Teens,Full,Regular Fit,Striped,Adidas
+850,Traditional,Sherwani,Men,Winter,Festive,Wool,White,Low,Adults,Half,Regular Fit,Printed,Levi's
+851,Traditional,Sherwani,Men,All,Festive,Silk,Green,Low,Teens,Half,Regular Fit,Printed,FabIndia
+852,Seasonal,Raincoat,Unisex,Winter,Travel,Wool,White,Low,Teens,Half,Regular Fit,Checked,Zara
+853,Western,Shirt,Men,Monsoon,Office,Nylon,Green,Low,Kids,Sleeveless,Slim Fit,Striped,Zara
+854,Western,Shirt,Men,Winter,Office,Linen,Pink,Medium,Teens,Full,Loose Fit,Printed,Local
+855,Western,Jeans,Unisex,All,Casual,Nylon,White,Medium,Adults,Sleeveless,Regular Fit,Solid,Local
+856,Seasonal,Raincoat,Unisex,Summer,Travel,Denim,Black,Medium,Teens,Sleeveless,Loose Fit,Checked,FabIndia
+857,Western,Formal Suit,Men,Winter,Party,Cotton,Blue,Low,Teens,Sleeveless,Regular Fit,Embroidered,Adidas
+858,Traditional,Kurti,Women,All,Festive,Silk,Green,High,Teens,Half,Slim Fit,Embroidered,Adidas
+859,Western,T-Shirt,Men,Summer,Casual,Silk,Green,Medium,Teens,Sleeveless,Regular Fit,Embroidered,Nike
+860,Traditional,Salwar Kameez,Women,All,Office,Denim,Grey,Low,Teens,Full,Regular Fit,Printed,FabIndia
+861,Traditional,Saree,Women,Summer,Festive,Denim,White,High,Seniors,Full,Regular Fit,Printed,Nike
+862,Seasonal,Jacket,Unisex,Winter,Travel,Nylon,Blue,High,Seniors,Full,Slim Fit,Printed,Nike
+863,Seasonal,Raincoat,Unisex,Winter,Travel,Linen,Grey,High,Seniors,Full,Regular Fit,Striped,Levi's
+864,Western,Formal Suit,Men,Monsoon,Party,Nylon,White,Medium,Teens,Half,Loose Fit,Checked,FabIndia
+865,Western,Jeans,Unisex,All,Casual,Polyester,Pink,Low,Adults,Sleeveless,Regular Fit,Embroidered,FabIndia
+866,Western,Jeans,Unisex,Winter,Casual,Linen,Black,Medium,Kids,Full,Loose Fit,Checked,FabIndia
+867,Western,T-Shirt,Men,Summer,Casual,Denim,Green,High,Seniors,Sleeveless,Regular Fit,Striped,Levi's
+868,Traditional,Lehenga,Women,Monsoon,Wedding,Nylon,Blue,Medium,Teens,Full,Slim Fit,Printed,Nike
+869,Seasonal,Raincoat,Unisex,Winter,Travel,Silk,Green,Low,Adults,Half,Slim Fit,Embroidered,Nike
+870,Western,Shirt,Men,Winter,Office,Polyester,Green,Low,Seniors,Full,Regular Fit,Striped,FabIndia
+871,Traditional,Kurti,Women,Monsoon,Festive,Linen,Grey,Low,Kids,Full,Slim Fit,Checked,Levi's
+872,Western,Shirt,Men,Winter,Office,Nylon,Black,Low,Adults,Half,Regular Fit,Striped,Local
+873,Traditional,Sherwani,Men,Summer,Festive,Wool,Red,Low,Kids,Sleeveless,Regular Fit,Embroidered,FabIndia
+874,Traditional,Kurta Pajama,Men,Monsoon,Casual,Linen,Blue,Medium,Kids,Half,Loose Fit,Checked,Adidas
+875,Western,Formal Suit,Men,Summer,Party,Polyester,Grey,Medium,Teens,Sleeveless,Loose Fit,Printed,Nike
+876,Traditional,Kurta Pajama,Men,All,Casual,Polyester,Red,Medium,Adults,Half,Slim Fit,Checked,H&M
+877,Traditional,Saree,Women,Winter,Festive,Silk,Red,Low,Adults,Half,Slim Fit,Embroidered,FabIndia
+878,Western,Jeans,Unisex,Winter,Casual,Polyester,Black,Medium,Teens,Full,Loose Fit,Embroidered,Zara
+879,Western,Shirt,Men,All,Office,Linen,Green,High,Teens,Half,Loose Fit,Striped,Nike
+880,Traditional,Kurta Pajama,Men,Summer,Casual,Polyester,Red,High,Seniors,Half,Loose Fit,Embroidered,Zara
+881,Western,T-Shirt,Men,All,Casual,Cotton,White,Low,Kids,Sleeveless,Slim Fit,Embroidered,Adidas
+882,Western,Formal Suit,Men,Winter,Party,Silk,Grey,Low,Adults,Full,Loose Fit,Checked,FabIndia
+883,Traditional,Kurta Pajama,Men,Winter,Casual,Nylon,Black,High,Adults,Half,Regular Fit,Checked,Adidas
+884,Traditional,Salwar Kameez,Women,Summer,Office,Silk,Grey,Medium,Adults,Full,Slim Fit,Checked,Nike
+885,Western,Jeans,Unisex,Winter,Casual,Polyester,Green,High,Teens,Half,Regular Fit,Striped,FabIndia
+886,Seasonal,Hoodie,Unisex,Monsoon,Casual,Nylon,Green,Medium,Seniors,Half,Slim Fit,Striped,Zara
+887,Western,T-Shirt,Men,Monsoon,Casual,Cotton,Green,Medium,Adults,Sleeveless,Loose Fit,Checked,FabIndia
+888,Western,T-Shirt,Men,Summer,Casual,Nylon,Red,Low,Adults,Full,Regular Fit,Embroidered,Zara
+889,Western,Shirt,Men,Monsoon,Office,Linen,Grey,Medium,Seniors,Half,Regular Fit,Embroidered,Adidas
+890,Western,Jeans,Unisex,Summer,Casual,Nylon,Yellow,Medium,Kids,Sleeveless,Loose Fit,Printed,Local
+891,Western,Formal Suit,Men,Monsoon,Party,Wool,Red,Medium,Adults,Full,Slim Fit,Embroidered,Nike
+892,Traditional,Lehenga,Women,Winter,Wedding,Denim,Blue,Low,Seniors,Full,Regular Fit,Embroidered,Levi's
+893,Traditional,Lehenga,Women,All,Wedding,Silk,Yellow,High,Kids,Full,Loose Fit,Striped,Zara
+894,Western,Shirt,Men,Monsoon,Office,Silk,Pink,High,Adults,Half,Slim Fit,Striped,Adidas
+895,Western,Shirt,Men,Summer,Office,Silk,Pink,Medium,Seniors,Sleeveless,Regular Fit,Printed,Adidas
+896,Western,Jeans,Unisex,Monsoon,Casual,Silk,Grey,Low,Seniors,Half,Loose Fit,Embroidered,Adidas
+897,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,Pink,Medium,Kids,Sleeveless,Loose Fit,Checked,Nike
+898,Seasonal,Hoodie,Unisex,All,Casual,Polyester,Pink,Low,Seniors,Sleeveless,Regular Fit,Solid,Nike
+899,Seasonal,Raincoat,Unisex,Winter,Travel,Linen,Black,Low,Seniors,Half,Regular Fit,Checked,Adidas
+900,Western,Formal Suit,Men,Summer,Party,Wool,Red,High,Adults,Sleeveless,Loose Fit,Solid,Zara
+901,Seasonal,Hoodie,Unisex,All,Casual,Nylon,Black,High,Kids,Full,Slim Fit,Striped,Zara
+902,Seasonal,Raincoat,Unisex,Winter,Travel,Cotton,Pink,High,Kids,Half,Regular Fit,Solid,Levi's
+903,Western,Formal Suit,Men,Monsoon,Party,Linen,Red,High,Teens,Sleeveless,Regular Fit,Embroidered,Nike
+904,Western,Formal Suit,Men,Summer,Party,Denim,Grey,High,Teens,Half,Loose Fit,Embroidered,Nike
+905,Western,Formal Suit,Men,Monsoon,Party,Cotton,Pink,Medium,Adults,Sleeveless,Slim Fit,Embroidered,FabIndia
+906,Traditional,Salwar Kameez,Women,Winter,Office,Cotton,Green,Low,Kids,Half,Loose Fit,Checked,H&M
+907,Traditional,Lehenga,Women,Winter,Wedding,Silk,Pink,Low,Kids,Full,Loose Fit,Embroidered,Local
+908,Western,T-Shirt,Men,Monsoon,Casual,Silk,Grey,High,Teens,Sleeveless,Slim Fit,Printed,Nike
+909,Western,Shirt,Men,Monsoon,Office,Polyester,Red,Low,Kids,Half,Loose Fit,Solid,Levi's
+910,Traditional,Kurta Pajama,Men,Winter,Casual,Wool,Green,Medium,Kids,Half,Regular Fit,Checked,FabIndia
+911,Seasonal,Hoodie,Unisex,Winter,Casual,Denim,Grey,Low,Seniors,Sleeveless,Regular Fit,Striped,FabIndia
+912,Western,Jeans,Unisex,All,Casual,Wool,Red,Medium,Adults,Full,Loose Fit,Printed,Adidas
+913,Traditional,Sherwani,Men,Winter,Festive,Wool,Red,High,Adults,Sleeveless,Loose Fit,Solid,Levi's
+914,Western,Formal Suit,Men,Monsoon,Party,Nylon,Blue,High,Seniors,Full,Regular Fit,Solid,Local
+915,Western,Shirt,Men,All,Office,Denim,Yellow,Medium,Teens,Half,Regular Fit,Embroidered,Nike
+916,Western,Shirt,Men,Monsoon,Office,Nylon,Green,Low,Teens,Sleeveless,Loose Fit,Printed,Levi's
+917,Traditional,Kurti,Women,All,Festive,Polyester,Black,Low,Kids,Half,Slim Fit,Embroidered,Local
+918,Traditional,Saree,Women,Summer,Festive,Nylon,Green,High,Teens,Half,Slim Fit,Checked,Levi's
+919,Traditional,Lehenga,Women,Monsoon,Wedding,Linen,Yellow,Low,Adults,Sleeveless,Regular Fit,Embroidered,Local
+920,Traditional,Kurti,Women,Winter,Festive,Cotton,White,Medium,Seniors,Sleeveless,Slim Fit,Embroidered,Adidas
+921,Western,Jeans,Unisex,All,Casual,Polyester,Yellow,Medium,Adults,Full,Slim Fit,Embroidered,Levi's
+922,Traditional,Salwar Kameez,Women,Winter,Office,Cotton,Yellow,High,Teens,Half,Loose Fit,Printed,Levi's
+923,Seasonal,Hoodie,Unisex,Winter,Casual,Polyester,Green,Medium,Adults,Full,Slim Fit,Printed,FabIndia
+924,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Yellow,Low,Kids,Sleeveless,Regular Fit,Printed,Adidas
+925,Traditional,Salwar Kameez,Women,Summer,Office,Wool,Pink,Medium,Kids,Full,Loose Fit,Printed,Adidas
+926,Traditional,Sherwani,Men,All,Festive,Polyester,Red,Medium,Adults,Half,Slim Fit,Embroidered,Nike
+927,Seasonal,Jacket,Unisex,Summer,Travel,Silk,White,Medium,Teens,Half,Slim Fit,Embroidered,Local
+928,Western,Shirt,Men,Monsoon,Office,Denim,Green,High,Kids,Half,Loose Fit,Embroidered,Adidas
+929,Traditional,Salwar Kameez,Women,Monsoon,Office,Cotton,Pink,Low,Seniors,Full,Regular Fit,Striped,Local
+930,Traditional,Kurti,Women,Winter,Festive,Cotton,Green,Low,Seniors,Full,Loose Fit,Printed,Levi's
+931,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Pink,Medium,Teens,Half,Regular Fit,Checked,Local
+932,Seasonal,Hoodie,Unisex,Summer,Casual,Cotton,Red,High,Kids,Sleeveless,Regular Fit,Embroidered,Zara
+933,Traditional,Saree,Women,Summer,Festive,Wool,Yellow,High,Seniors,Sleeveless,Regular Fit,Printed,FabIndia
+934,Seasonal,Jacket,Unisex,All,Travel,Denim,White,High,Kids,Half,Loose Fit,Embroidered,H&M
+935,Traditional,Salwar Kameez,Women,Winter,Office,Linen,Red,Low,Adults,Sleeveless,Loose Fit,Solid,Zara
+936,Western,Jeans,Unisex,Monsoon,Casual,Denim,Blue,Medium,Kids,Sleeveless,Loose Fit,Checked,FabIndia
+937,Western,Jeans,Unisex,Summer,Casual,Denim,Grey,High,Kids,Half,Regular Fit,Embroidered,Nike
+938,Western,Shirt,Men,Monsoon,Office,Linen,Yellow,Low,Kids,Half,Regular Fit,Striped,Zara
+939,Western,T-Shirt,Men,All,Casual,Silk,Yellow,High,Teens,Sleeveless,Slim Fit,Striped,FabIndia
+940,Seasonal,Jacket,Unisex,Summer,Travel,Denim,Blue,Medium,Kids,Full,Loose Fit,Embroidered,H&M
+941,Western,Jeans,Unisex,All,Casual,Polyester,Red,High,Seniors,Sleeveless,Regular Fit,Embroidered,Adidas
+942,Traditional,Kurta Pajama,Men,Monsoon,Casual,Wool,Blue,High,Adults,Full,Loose Fit,Embroidered,Local
+943,Traditional,Salwar Kameez,Women,Summer,Office,Silk,Pink,High,Seniors,Full,Regular Fit,Checked,Local
+944,Traditional,Saree,Women,All,Festive,Wool,Grey,Medium,Teens,Full,Slim Fit,Solid,Levi's
+945,Western,T-Shirt,Men,Winter,Casual,Silk,Red,Medium,Adults,Half,Loose Fit,Printed,Nike
+946,Seasonal,Hoodie,Unisex,Summer,Casual,Polyester,Black,Medium,Seniors,Sleeveless,Loose Fit,Solid,Zara
+947,Traditional,Saree,Women,All,Festive,Wool,Black,Medium,Teens,Sleeveless,Regular Fit,Embroidered,Local
+948,Traditional,Saree,Women,All,Festive,Nylon,Pink,High,Kids,Half,Slim Fit,Embroidered,Levi's
+949,Traditional,Lehenga,Women,Monsoon,Wedding,Linen,Blue,Medium,Kids,Sleeveless,Loose Fit,Solid,Local
+950,Western,Formal Suit,Men,All,Party,Linen,Yellow,Low,Kids,Sleeveless,Loose Fit,Embroidered,Zara
+951,Western,Formal Suit,Men,Winter,Party,Nylon,Red,Low,Kids,Half,Regular Fit,Embroidered,Local
+952,Traditional,Kurta Pajama,Men,Summer,Casual,Denim,Blue,Medium,Teens,Half,Loose Fit,Solid,Local
+953,Western,T-Shirt,Men,All,Casual,Cotton,Red,Low,Adults,Sleeveless,Regular Fit,Solid,Zara
+954,Western,Jeans,Unisex,All,Casual,Linen,Green,High,Kids,Full,Loose Fit,Printed,Nike
+955,Western,Shirt,Men,Winter,Office,Cotton,White,Medium,Adults,Half,Loose Fit,Striped,Nike
+956,Western,T-Shirt,Men,Monsoon,Casual,Denim,Red,Medium,Adults,Half,Slim Fit,Striped,H&M
+957,Western,Formal Suit,Men,Summer,Party,Silk,Green,High,Adults,Sleeveless,Regular Fit,Printed,Levi's
+958,Western,T-Shirt,Men,Winter,Casual,Cotton,White,High,Teens,Full,Regular Fit,Striped,FabIndia
+959,Traditional,Lehenga,Women,Summer,Wedding,Silk,Pink,Medium,Adults,Sleeveless,Slim Fit,Striped,FabIndia
+960,Seasonal,Jacket,Unisex,Winter,Travel,Denim,White,High,Seniors,Sleeveless,Loose Fit,Solid,Zara
+961,Traditional,Saree,Women,Winter,Festive,Linen,Red,Low,Kids,Full,Slim Fit,Printed,Zara
+962,Traditional,Kurti,Women,Monsoon,Festive,Nylon,Grey,Low,Kids,Full,Slim Fit,Embroidered,H&M
+963,Seasonal,Raincoat,Unisex,Monsoon,Travel,Denim,Black,Low,Seniors,Half,Slim Fit,Embroidered,Nike
+964,Traditional,Kurti,Women,Summer,Festive,Linen,Red,Low,Teens,Sleeveless,Slim Fit,Striped,Local
+965,Traditional,Kurta Pajama,Men,All,Casual,Polyester,Blue,Low,Seniors,Sleeveless,Regular Fit,Embroidered,Nike
+966,Seasonal,Raincoat,Unisex,All,Travel,Linen,Red,High,Seniors,Full,Loose Fit,Printed,Levi's
+967,Seasonal,Hoodie,Unisex,All,Casual,Silk,Pink,Low,Kids,Half,Loose Fit,Printed,Levi's
+968,Seasonal,Raincoat,Unisex,All,Travel,Polyester,White,Low,Teens,Sleeveless,Loose Fit,Printed,FabIndia
+969,Western,Jeans,Unisex,Summer,Casual,Cotton,Green,Medium,Kids,Full,Loose Fit,Checked,H&M
+970,Traditional,Kurta Pajama,Men,All,Casual,Silk,Green,High,Kids,Sleeveless,Slim Fit,Printed,FabIndia
+971,Western,Formal Suit,Men,Winter,Party,Cotton,White,High,Teens,Full,Regular Fit,Striped,FabIndia
+972,Western,Shirt,Men,Winter,Office,Linen,Red,High,Adults,Sleeveless,Slim Fit,Printed,Nike
+973,Traditional,Salwar Kameez,Women,Winter,Office,Wool,Green,Medium,Kids,Half,Slim Fit,Solid,FabIndia
+974,Western,Shirt,Men,Winter,Office,Silk,Red,Medium,Teens,Full,Regular Fit,Checked,Zara
+975,Western,Shirt,Men,Monsoon,Office,Denim,Grey,Medium,Teens,Full,Loose Fit,Printed,Levi's
+976,Traditional,Kurta Pajama,Men,Summer,Casual,Wool,Blue,Medium,Seniors,Full,Regular Fit,Solid,Nike
+977,Western,Formal Suit,Men,Monsoon,Party,Linen,White,Medium,Adults,Sleeveless,Slim Fit,Checked,Nike
+978,Western,Jeans,Unisex,Winter,Casual,Silk,Red,Low,Kids,Full,Loose Fit,Embroidered,Zara
+979,Traditional,Kurta Pajama,Men,Monsoon,Casual,Linen,Black,Low,Seniors,Half,Slim Fit,Embroidered,Levi's
+980,Western,Shirt,Men,Monsoon,Office,Linen,Green,Low,Seniors,Full,Slim Fit,Printed,FabIndia
+981,Western,T-Shirt,Men,Summer,Casual,Linen,Blue,Medium,Seniors,Half,Regular Fit,Embroidered,Levi's
+982,Traditional,Salwar Kameez,Women,Summer,Office,Denim,Blue,High,Teens,Sleeveless,Regular Fit,Striped,Levi's
+983,Seasonal,Jacket,Unisex,Winter,Travel,Nylon,Yellow,Medium,Adults,Half,Regular Fit,Embroidered,H&M
+984,Western,Jeans,Unisex,Monsoon,Casual,Denim,Grey,Low,Teens,Sleeveless,Loose Fit,Striped,Local
+985,Traditional,Kurti,Women,All,Festive,Nylon,Grey,Low,Kids,Half,Slim Fit,Checked,Nike
+986,Seasonal,Jacket,Unisex,All,Travel,Wool,Blue,High,Adults,Sleeveless,Regular Fit,Solid,H&M
+987,Traditional,Kurta Pajama,Men,Summer,Casual,Silk,Green,Low,Adults,Sleeveless,Regular Fit,Embroidered,Adidas
+988,Traditional,Sherwani,Men,Summer,Festive,Silk,Red,Low,Teens,Full,Loose Fit,Embroidered,Adidas
+989,Western,Shirt,Men,All,Office,Cotton,Grey,High,Teens,Full,Loose Fit,Striped,Levi's
+990,Seasonal,Raincoat,Unisex,All,Travel,Cotton,Yellow,Medium,Adults,Half,Slim Fit,Solid,Adidas
+991,Traditional,Saree,Women,All,Festive,Cotton,Red,Medium,Adults,Half,Loose Fit,Striped,Adidas
+992,Western,Shirt,Men,Winter,Office,Polyester,Black,Medium,Kids,Full,Loose Fit,Checked,H&M
+993,Seasonal,Hoodie,Unisex,Summer,Casual,Silk,Green,Low,Kids,Full,Regular Fit,Solid,Levi's
+994,Traditional,Salwar Kameez,Women,Summer,Office,Linen,Pink,Low,Adults,Half,Loose Fit,Solid,Levi's
+995,Traditional,Kurta Pajama,Men,Winter,Casual,Polyester,Grey,Low,Adults,Full,Slim Fit,Striped,Zara
+996,Western,T-Shirt,Men,Winter,Casual,Wool,Grey,Medium,Teens,Half,Regular Fit,Striped,Zara
+997,Western,Shirt,Men,All,Office,Denim,Grey,Low,Teens,Sleeveless,Loose Fit,Printed,Zara
+998,Western,T-Shirt,Men,Monsoon,Casual,Wool,Yellow,Low,Teens,Half,Loose Fit,Striped,Adidas
+999,Western,Formal Suit,Men,All,Party,Cotton,Pink,High,Teens,Half,Slim Fit,Checked,FabIndia
+1000,Western,Formal Suit,Men,Winter,Party,Cotton,Red,High,Seniors,Half,Loose Fit,Striped,Local
